@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Shortcodes Ultimate\n"
+"Project-Id-Version: shortcodes-ultimate\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-19 08:59+0300\n"
-"PO-Revision-Date: 2013-12-27 13:09+0800\n"
-"Last-Translator: Vladimir Anokhin <ano.vladimir@gmail.com>\n"
+"POT-Creation-Date: 2013-12-17 18:02+0800\n"
+"PO-Revision-Date: 2013-12-27 14:21+0800\n"
+"Last-Translator: xiaozhong <xiaozhong@xiaozhongphoto.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,37 +12,37 @@ msgstr ""
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"Language: zh_CN\n"
 "X-Generator: Poedit 1.6.3\n"
-"Language: su\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: inc/core/admin-views.php:9
 msgid "Welcome to Shortcodes Ultimate"
-msgstr "欢迎使用极致简码"
+msgstr "欢迎使用终极简码"
 
 #: inc/core/admin-views.php:9
 msgid "A real swiss army knife for WordPress"
-msgstr "为WordPress打造的真正的瑞士军刀"
+msgstr "一把真正的WordPress瑞士军刀"
 
-#: inc/core/admin-views.php:11 inc/core/load.php:234
+#: inc/core/admin-views.php:11 inc/core/load.php:228
 msgid "Project homepage"
-msgstr "项目主页"
+msgstr "官方网站"
 
 #: inc/core/admin-views.php:12
 msgid "Documentation"
-msgstr "文档"
+msgstr "说明文档"
 
-#: inc/core/admin-views.php:13 inc/core/load.php:235
+#: inc/core/admin-views.php:13 inc/core/load.php:229
 msgid "Support forum"
-msgstr "技术支持"
+msgstr "技术论坛"
 
-#: inc/core/admin-views.php:14 inc/core/load.php:236
+#: inc/core/admin-views.php:14 inc/core/load.php:230
 msgid "Changelog"
 msgstr "更新日志"
 
 #: inc/core/admin-views.php:15
 msgid "Fork on GitHub"
-msgstr "GitHub上的分支"
+msgstr "Fork on GitHub"
 
 #: inc/core/admin-views.php:19
 msgid "Plugin features"
@@ -50,15 +50,15 @@ msgstr "插件功能"
 
 #: inc/core/admin-views.php:21
 msgid "40+ amazing shortcodes"
-msgstr "40+异乎寻常的简码"
+msgstr "40+惊人简码"
 
 #: inc/core/admin-views.php:22
 msgid "Power of CSS3 transitions"
-msgstr "CSS3过渡"
+msgstr "CSS3 过度"
 
 #: inc/core/admin-views.php:23
 msgid "Handy shortcodes generator"
-msgstr "便捷的简码生成器"
+msgstr "简便的简码生成器"
 
 #: inc/core/admin-views.php:24
 msgid "International"
@@ -66,7 +66,7 @@ msgstr "国际化"
 
 #: inc/core/admin-views.php:25
 msgid "Documented API"
-msgstr "文档化的API"
+msgstr "API文档"
 
 #: inc/core/admin-views.php:29
 msgid "What is a shortcode?"
@@ -77,16 +77,13 @@ msgid ""
 "<strong>Shortcode</strong> is a WordPress-specific code that lets you do "
 "nifty things with very little effort."
 msgstr ""
-"<strong>简码</strong>是一个特定的WordPress代码，可以尽可能简便的制作出美观的"
-"页面"
+"<strong>简码</strong>是WordPress特定的代码，让你用很少的努力做出漂亮的东西。"
 
 #: inc/core/admin-views.php:31
 msgid ""
 "Shortcodes can embed files or create objects that would normally require "
 "lots of complicated, ugly code in just one line. Shortcode = shortcut."
-msgstr ""
-"简码可以嵌入文件或创建通常需要大量的复杂的，丑陋的代码中只有一行的对象。简码="
-"快捷方式。"
+msgstr "简码可以嵌入文件。简码=快捷方式。"
 
 #: inc/core/admin-views.php:36
 msgid "How does it works"
@@ -94,47 +91,47 @@ msgstr "它是如何工作的？"
 
 #: inc/core/admin-views.php:40
 msgid "More videos"
-msgstr "更多视频"
+msgstr "其它视频"
 
 #: inc/core/admin-views.php:42
 msgid "Shortcodes Ultimate Tutorial"
-msgstr "简码终极教程"
+msgstr "终极简码教程"
 
 #: inc/core/admin-views.php:43
 msgid "How to use special widget"
-msgstr "如何使用特殊部件"
+msgstr "如何使用小工具部件"
 
 #: inc/core/admin-views.php:44
 msgid "How to create Carousel"
-msgstr "如何创建旋转木马"
+msgstr "如何创建轮播"
 
 #: inc/core/admin-views.php:45
 msgid "How to create image gallery"
-msgstr "如何建立图片库"
+msgstr "如何创建图片画廊"
 
 #: inc/core/admin-views.php:63
 msgid "You can overview the original styles to override it"
-msgstr "你可以预览原来的样式来覆盖它"
+msgstr "你可以纵览原来的样式并可以覆盖它。"
 
 #: inc/core/admin-views.php:74
 msgid "You can use next variables in your custom CSS"
-msgstr "您可以在自定义的CSS使用下一个变量"
+msgstr "你可以使用以下变量来自定义你的CSS"
 
 #: inc/core/admin-views.php:75
 msgid "home url"
-msgstr "主页地址"
+msgstr "home 链接"
 
 #: inc/core/admin-views.php:76
 msgid "theme url"
-msgstr "主题地址"
+msgstr "主题链接"
 
 #: inc/core/admin-views.php:77
 msgid "plugin url"
-msgstr "插件地址"
+msgstr "插件链接"
 
 #: inc/core/admin-views.php:114
 msgid "Maker"
-msgstr "制造者"
+msgstr "制作者"
 
 #: inc/core/admin-views.php:115
 msgid ""
@@ -142,7 +139,7 @@ msgid ""
 "any shortcode with different parameters or even override default shortcodes"
 msgstr ""
 "这个附加组件允许您创建自定义的简码。您可以轻松地创建具有不同参数的任何简码，"
-"甚至覆盖默认的简码"
+"甚至覆盖默认的简码。"
 
 #: inc/core/admin-views.php:120
 msgid "Skins"
@@ -153,11 +150,11 @@ msgid ""
 "Set of additional skins for Shrtcodes Ultimate. It includes skins for "
 "accordeons/spoilers, tabs and some other shortcodes"
 msgstr ""
-"为终极简码设置额外的皮肤。它包括accordeons/spoilers，标签和其他一些短码"
+"为终极简码设置额外的皮肤。它包括手风琴/扰流板，片及一些其他的简码的皮肤。"
 
 #: inc/core/admin-views.php:127
 msgid "Shortcodes Ultimate Add-ons"
-msgstr "简码终极附加组件"
+msgstr "终极简码附加组件"
 
 #: inc/core/admin-views.php:130 inc/core/admin-views.php:137
 msgid "Learn more"
@@ -165,49 +162,49 @@ msgstr "了解更多"
 
 #: inc/core/admin-views.php:134
 msgid "Other WordPress Plugins"
-msgstr "其他WordPress插件"
+msgstr "基它WordPress插件"
 
-#: inc/core/assets.php:70
+#: inc/core/assets.php:72
 msgid "Choose files"
 msgstr "选择文件"
 
-#: inc/core/assets.php:71
+#: inc/core/assets.php:73
 msgid "Add selected files"
-msgstr "添加所选文件"
+msgstr "添加选定的文件"
 
-#: inc/core/assets.php:72
+#: inc/core/assets.php:74
 msgid "This button is not clickable"
 msgstr "此按钮无法点击"
 
-#: inc/core/assets.php:78 inc/vendor/sunrise.php:178
+#: inc/core/assets.php:80 inc/vendor/sunrise.php:178
 msgid "Choose file"
 msgstr "选择文件"
 
-#: inc/core/assets.php:79
+#: inc/core/assets.php:81
 msgid "Insert"
 msgstr "插入"
 
-#: inc/core/assets.php:80
+#: inc/core/assets.php:82
 msgid "Select images"
 msgstr "选择图像"
 
-#: inc/core/assets.php:81
+#: inc/core/assets.php:83
 msgid "Add selected images"
-msgstr "添加所选图像"
+msgstr "添加选定的图像"
 
-#: inc/core/assets.php:82
+#: inc/core/assets.php:84
 msgid "Please enter a name for new preset"
 msgstr "请为新的预设输入名称"
 
-#: inc/core/assets.php:83
+#: inc/core/assets.php:85
 msgid "New preset"
-msgstr "新预设"
+msgstr "新的预设"
 
-#: inc/core/assets.php:96
+#: inc/core/assets.php:98
 msgid ""
 "This shortcode doesn't work in live preview. Please insert it into editor "
 "and preview on the site."
-msgstr "这简码不能在实时预览工作。请把它插入到编辑器和预览的网站上。"
+msgstr "这简码不能在实时预览工作。请把它插入到编辑器到网站上预览。"
 
 #: inc/core/data.php:17
 msgid "All"
@@ -217,174 +214,161 @@ msgstr "全部"
 msgid "Content"
 msgstr "内容"
 
-#: inc/core/data.php:19 inc/core/data.php:803
+#: inc/core/data.php:19 inc/core/data.php:804
 msgid "Box"
-msgstr "盒子"
+msgstr "框"
 
 #: inc/core/data.php:20
 msgid "Media"
 msgstr "媒体"
 
-#: inc/core/data.php:21 inc/core/data.php:1940
+#: inc/core/data.php:21 inc/core/data.php:1959
 msgid "Gallery"
 msgstr "画廊"
 
 #: inc/core/data.php:22
-msgid "Other"
-msgstr "其他"
+msgid "Data"
+msgstr "数据"
 
-#: inc/core/data.php:28 inc/core/data.php:1718 inc/core/data.php:1826
-#: inc/core/data.php:1953 inc/core/data.php:2095
+#: inc/core/data.php:23
+msgid "Other"
+msgstr "其它"
+
+#: inc/core/data.php:29 inc/core/data.php:1728 inc/core/data.php:1845
+#: inc/core/data.php:1981 inc/core/data.php:2123
 msgid "None"
 msgstr "无"
 
-#: inc/core/data.php:29
-msgid "Solid"
-msgstr "实线"
-
 #: inc/core/data.php:30
-msgid "Dotted"
-msgstr "虚线（有点的）"
+msgid "Solid"
+msgstr ""
 
 #: inc/core/data.php:31
-msgid "Dashed"
+msgid "Dotted"
 msgstr "虚线"
 
 #: inc/core/data.php:32
-msgid "Double"
-msgstr "双线"
+msgid "Dashed"
+msgstr ""
 
 #: inc/core/data.php:33
-msgid "Groove"
-msgstr "槽"
+msgid "Double"
+msgstr ""
 
 #: inc/core/data.php:34
-msgid "Ridge"
-msgstr "脊"
+msgid "Groove"
+msgstr ""
 
-#: inc/core/data.php:48
+#: inc/core/data.php:35
+msgid "Ridge"
+msgstr ""
+
+#: inc/core/data.php:49
 msgid "Basic examples"
 msgstr "基本示例"
 
-#: inc/core/data.php:51
+#: inc/core/data.php:52
 msgid "Accordions, spoilers, different styles, anchors"
-msgstr "手风琴，扰流板，不同的风格，锚"
+msgstr "不同样式的手风琴扰流效果"
 
-#: inc/core/data.php:57
+#: inc/core/data.php:58
 msgid "Tabs, vertical tabs, tab anchors"
-msgstr "制表符，垂直制表符，制表锚"
+msgstr "选项卡、垂直选项卡"
 
-#: inc/core/data.php:63
+#: inc/core/data.php:64
 msgid "Column layouts"
-msgstr "自定义布局"
+msgstr "栏式布局"
 
-#: inc/core/data.php:69
+#: inc/core/data.php:70
 msgid ""
 "Media elements, YouTube, Vimeo, Screenr and self-hosted videos, audio player"
-msgstr "媒体元素，YouTube，Vimeo，Screenr和自托管的视频，音频播放器"
+msgstr "媒体元素，YouTube, Vimeo, Screenr and self-hosted videos, audio player"
 
-#: inc/core/data.php:75
+#: inc/core/data.php:76
 msgid "Unlimited buttons"
 msgstr "无限按钮"
 
-#: inc/core/data.php:81
+#: inc/core/data.php:82
 msgid "Animations"
-msgstr "动画"
+msgstr "动画效果"
 
-#: inc/core/data.php:89
+#: inc/core/data.php:90
 msgid "Advanced examples"
-msgstr "先进的例子"
+msgstr "高级示例"
 
-#: inc/core/data.php:92
+#: inc/core/data.php:93
 msgid "Interacting with posts shortcode"
-msgstr "互动和文章简码"
+msgstr "互动文章简码"
 
-#: inc/core/data.php:98
+#: inc/core/data.php:99
 msgid "Nested shortcodes, shortcodes inside of attributes"
-msgstr "嵌套的简码，简码属性里面"
+msgstr "嵌套简码"
 
-#: inc/core/data.php:115
+#: inc/core/data.php:116
 msgid "Heading"
-msgstr "标题"
+msgstr "打头标题"
 
-#: inc/core/data.php:122 inc/core/data.php:176 inc/core/data.php:258
-#: inc/core/data.php:406 inc/core/data.php:436 inc/core/data.php:497
-#: inc/core/data.php:662 inc/core/data.php:815 inc/core/data.php:979
+#: inc/core/data.php:123 inc/core/data.php:177 inc/core/data.php:259
+#: inc/core/data.php:407 inc/core/data.php:437 inc/core/data.php:498
+#: inc/core/data.php:663 inc/core/data.php:816 inc/core/data.php:980
+#: inc/core/data.php:2325 inc/core/data.php:2377 inc/core/data.php:2440
 msgid "Default"
 msgstr "默认"
 
-#: inc/core/data.php:125 inc/core/data.php:179 inc/core/data.php:263
-#: inc/core/data.php:439 inc/core/data.php:503 inc/core/data.php:672
-#: inc/core/data.php:822 inc/core/data.php:949
-msgid "Style"
-msgstr "样式"
-
-#: inc/core/data.php:126
-msgid "Choose style for this heading"
-msgstr "为这个标题选择样式"
-
 #: inc/core/data.php:126 inc/core/data.php:180 inc/core/data.php:264
-#: inc/core/data.php:440
-msgid "Install additional styles"
-msgstr "安装额外的样式"
+#: inc/core/data.php:440 inc/core/data.php:504 inc/core/data.php:673
+#: inc/core/data.php:823 inc/core/data.php:950
+msgid "Style"
+msgstr "风格"
 
-#: inc/core/data.php:134 inc/core/data.php:511 inc/core/data.php:590
-#: inc/core/data.php:693
+#: inc/core/data.php:127
+msgid "Choose style for this heading"
+msgstr "为打头标题选择风格"
+
+#: inc/core/data.php:127 inc/core/data.php:181 inc/core/data.php:265
+#: inc/core/data.php:441
+msgid "Install additional styles"
+msgstr "安装额外的风格"
+
+#: inc/core/data.php:135 inc/core/data.php:512 inc/core/data.php:591
+#: inc/core/data.php:694
 msgid "Size"
 msgstr "尺寸"
 
-#: inc/core/data.php:135
+#: inc/core/data.php:136
 msgid "Select heading size (pixels)"
-msgstr "选择标题的大小（像素）"
+msgstr "设置标题的尺寸（pixels）"
 
-#: inc/core/data.php:140 inc/core/data.php:472 inc/core/data.php:533
-#: inc/core/data.php:957
+#: inc/core/data.php:141 inc/core/data.php:473 inc/core/data.php:534
+#: inc/core/data.php:958
 msgid "Left"
 msgstr "左"
 
-#: inc/core/data.php:141 inc/core/data.php:534 inc/core/data.php:1767
-#: inc/core/data.php:1894
+#: inc/core/data.php:142 inc/core/data.php:535 inc/core/data.php:1777
+#: inc/core/data.php:1913
 msgid "Center"
-msgstr "居中"
+msgstr "中"
 
-#: inc/core/data.php:142 inc/core/data.php:473 inc/core/data.php:535
-#: inc/core/data.php:958
+#: inc/core/data.php:143 inc/core/data.php:474 inc/core/data.php:536
+#: inc/core/data.php:959
 msgid "Right"
 msgstr "右"
 
-#: inc/core/data.php:145 inc/core/data.php:476 inc/core/data.php:538
+#: inc/core/data.php:146 inc/core/data.php:477 inc/core/data.php:539
 msgid "Align"
-msgstr "对齐"
+msgstr "对齐方式"
 
-#: inc/core/data.php:146
+#: inc/core/data.php:147
 msgid "Heading text alignment"
-msgstr "标题文本的对齐方式"
-
-#: inc/core/data.php:154
-msgid "Margin"
-msgstr "外边距"
+msgstr "打头文本的对齐方式"
 
 #: inc/core/data.php:155
-msgid "Bottom margin (pixels)"
-msgstr "底部边距（像素）"
+msgid "Margin"
+msgstr "边距"
 
-#: inc/core/data.php:159 inc/core/data.php:199 inc/core/data.php:231
-#: inc/core/data.php:294 inc/core/data.php:310 inc/core/data.php:337
-#: inc/core/data.php:361 inc/core/data.php:389 inc/core/data.php:419
-#: inc/core/data.php:455 inc/core/data.php:480 inc/core/data.php:516
-#: inc/core/data.php:543 inc/core/data.php:559 inc/core/data.php:601
-#: inc/core/data.php:629 inc/core/data.php:750 inc/core/data.php:793
-#: inc/core/data.php:849 inc/core/data.php:886 inc/core/data.php:918
-#: inc/core/data.php:1020 inc/core/data.php:1036 inc/core/data.php:1088
-#: inc/core/data.php:1206 inc/core/data.php:1256 inc/core/data.php:1299
-#: inc/core/data.php:1338 inc/core/data.php:1407 inc/core/data.php:1428
-#: inc/core/data.php:1459 inc/core/data.php:1492 inc/core/data.php:1508
-#: inc/core/data.php:1538 inc/core/data.php:1558 inc/core/data.php:1585
-#: inc/core/data.php:1606 inc/core/data.php:1651 inc/core/data.php:1696
-#: inc/core/data.php:1804 inc/core/data.php:1931 inc/core/data.php:2001
-#: inc/core/data.php:2175 inc/core/data.php:2230 inc/core/data.php:2276
-msgid "Class"
-msgstr "类"
+#: inc/core/data.php:156
+msgid "Bottom margin (pixels)"
+msgstr "下边距(pixels)"
 
 #: inc/core/data.php:160 inc/core/data.php:200 inc/core/data.php:232
 #: inc/core/data.php:295 inc/core/data.php:311 inc/core/data.php:338
@@ -399,44 +383,62 @@ msgstr "类"
 #: inc/core/data.php:1460 inc/core/data.php:1493 inc/core/data.php:1509
 #: inc/core/data.php:1539 inc/core/data.php:1559 inc/core/data.php:1586
 #: inc/core/data.php:1607 inc/core/data.php:1652 inc/core/data.php:1697
-#: inc/core/data.php:1805 inc/core/data.php:1932 inc/core/data.php:2002
-#: inc/core/data.php:2176 inc/core/data.php:2231 inc/core/data.php:2277
-msgid "Extra CSS class"
-msgstr "额外的CSS类"
+#: inc/core/data.php:1814 inc/core/data.php:1950 inc/core/data.php:2029
+#: inc/core/data.php:2203 inc/core/data.php:2258 inc/core/data.php:2304
+msgid "Class"
+msgstr "样式"
 
-#: inc/core/data.php:163
+#: inc/core/data.php:161 inc/core/data.php:201 inc/core/data.php:233
+#: inc/core/data.php:296 inc/core/data.php:312 inc/core/data.php:339
+#: inc/core/data.php:363 inc/core/data.php:391 inc/core/data.php:421
+#: inc/core/data.php:457 inc/core/data.php:482 inc/core/data.php:518
+#: inc/core/data.php:545 inc/core/data.php:561 inc/core/data.php:603
+#: inc/core/data.php:631 inc/core/data.php:752 inc/core/data.php:795
+#: inc/core/data.php:851 inc/core/data.php:888 inc/core/data.php:920
+#: inc/core/data.php:1022 inc/core/data.php:1038 inc/core/data.php:1090
+#: inc/core/data.php:1208 inc/core/data.php:1258 inc/core/data.php:1301
+#: inc/core/data.php:1340 inc/core/data.php:1409 inc/core/data.php:1430
+#: inc/core/data.php:1461 inc/core/data.php:1494 inc/core/data.php:1510
+#: inc/core/data.php:1540 inc/core/data.php:1560 inc/core/data.php:1587
+#: inc/core/data.php:1608 inc/core/data.php:1653 inc/core/data.php:1698
+#: inc/core/data.php:1815 inc/core/data.php:1951 inc/core/data.php:2030
+#: inc/core/data.php:2204 inc/core/data.php:2259 inc/core/data.php:2305
+msgid "Extra CSS class"
+msgstr "额外的CSS"
+
+#: inc/core/data.php:164
 msgid "Heading text"
 msgstr "标题文字"
 
-#: inc/core/data.php:164
+#: inc/core/data.php:165
 msgid "Styled heading"
 msgstr "标题风格"
 
-#: inc/core/data.php:169
+#: inc/core/data.php:170
 msgid "Tabs"
-msgstr "标签"
+msgstr "标签选项卡"
 
-#: inc/core/data.php:180
+#: inc/core/data.php:181
 msgid "Choose style for this tabs"
-msgstr "为这个选项卡选择风格"
+msgstr "选择选项卡的风格"
 
-#: inc/core/data.php:188
+#: inc/core/data.php:189
 msgid "Active tab"
 msgstr "活动标签"
 
-#: inc/core/data.php:189
+#: inc/core/data.php:190
 msgid "Select which tab is open by default"
-msgstr "选择默认展开标签"
+msgstr "选择哪个标签是默认打开的"
 
-#: inc/core/data.php:194
+#: inc/core/data.php:195
 msgid "Vertical"
 msgstr "垂直"
 
-#: inc/core/data.php:195
+#: inc/core/data.php:196
 msgid "Show tabs vertically"
-msgstr "垂直显示标签"
+msgstr "选择是否垂直"
 
-#: inc/core/data.php:203
+#: inc/core/data.php:204
 msgid ""
 "[%prefix_tab title=\"Title 1\"]Content 1[/%prefix_tab]\n"
 "[%prefix_tab title=\"Title 2\"]Content 2[/%prefix_tab]\n"
@@ -446,462 +448,471 @@ msgstr ""
 "[%prefix_tab title=\"标题 2\"]内容 2[/%prefix_tab]\n"
 "[%prefix_tab title=\"标题 3\"]内容 3[/%prefix_tab]"
 
-#: inc/core/data.php:204
+#: inc/core/data.php:205
 msgid "Tabs container"
-msgstr "标签的容器"
+msgstr "选项卡"
 
-#: inc/core/data.php:209
+#: inc/core/data.php:210
 msgid "Tab"
-msgstr "标签"
+msgstr "单一选项卡"
 
-#: inc/core/data.php:214
+#: inc/core/data.php:215
 msgid "Tab name"
-msgstr "标签名称"
+msgstr "选项卡名称"
 
-#: inc/core/data.php:215 inc/core/data.php:247 inc/core/data.php:767
-#: inc/core/data.php:810 inc/core/data.php:1366
+#: inc/core/data.php:216 inc/core/data.php:248 inc/core/data.php:768
+#: inc/core/data.php:811 inc/core/data.php:1367
 msgid "Title"
 msgstr "标题"
 
-#: inc/core/data.php:216
+#: inc/core/data.php:217
 msgid "Enter tab name"
-msgstr "输入标签标题"
+msgstr "输入选项卡名称"
 
-#: inc/core/data.php:221
+#: inc/core/data.php:222
 msgid "Disabled"
 msgstr "禁用"
 
-#: inc/core/data.php:222
+#: inc/core/data.php:223
 msgid "Is this tab disabled"
-msgstr "此选项卡禁用"
+msgstr "这个选项卡禁用"
 
-#: inc/core/data.php:226 inc/core/data.php:289
+#: inc/core/data.php:227 inc/core/data.php:290
 msgid "Anchor"
-msgstr "锚"
+msgstr "锚点"
 
-#: inc/core/data.php:227
+#: inc/core/data.php:228
 msgid ""
 "You can use unique anchor for this tab to access it with hash in page url. "
 "For example: type here <b%value>Hello</b> and then use url like http://"
 "example.com/page-url#Hello. This tab will be activated and scrolled in"
 msgstr ""
-
-#: inc/core/data.php:235
-msgid "Tab content"
-msgstr ""
+"您可以使用此选项卡独特的锚点可与散列在页面URL访问它。例如：在这里输入<b"
+"%value>Hello</b> 和再使用 http://example.com/page-url#Hello. 该选项卡将被激活"
+"并滚动"
 
 #: inc/core/data.php:236
+msgid "Tab content"
+msgstr "标签内容"
+
+#: inc/core/data.php:237
 msgid "Single tab"
-msgstr ""
+msgstr "单一选项卡"
 
-#: inc/core/data.php:241
+#: inc/core/data.php:242
 msgid "Spoiler"
-msgstr ""
+msgstr "扰流板"
 
-#: inc/core/data.php:246 inc/core/shortcodes.php:72
+#: inc/core/data.php:247 inc/core/shortcodes.php:72
 msgid "Spoiler title"
-msgstr ""
+msgstr "Spoiler 标题"
 
-#: inc/core/data.php:247
+#: inc/core/data.php:248
 msgid "Text in spoiler title"
-msgstr ""
-
-#: inc/core/data.php:252
-msgid "Open"
-msgstr ""
+msgstr "Spoiler 标题"
 
 #: inc/core/data.php:253
+msgid "Open"
+msgstr "展开"
+
+#: inc/core/data.php:254
 msgid "Is spoiler content visible by default"
-msgstr ""
+msgstr "隐藏的内容是否默认展开"
 
-#: inc/core/data.php:259
+#: inc/core/data.php:260
 msgid "Fancy"
-msgstr ""
+msgstr "花俏"
 
-#: inc/core/data.php:260 inc/core/data.php:500
+#: inc/core/data.php:261 inc/core/data.php:501
 msgid "Simple"
-msgstr ""
+msgstr "简单"
 
-#: inc/core/data.php:264
+#: inc/core/data.php:265
 msgid "Choose style for this spoiler"
-msgstr ""
-
-#: inc/core/data.php:269
-msgid "Plus"
-msgstr ""
+msgstr "为这个为这个扰流板选择风格"
 
 #: inc/core/data.php:270
-msgid "Plus circle"
-msgstr ""
+msgid "Plus"
+msgstr "加号"
 
 #: inc/core/data.php:271
-msgid "Plus square 1"
-msgstr ""
+msgid "Plus circle"
+msgstr "加号圈"
 
 #: inc/core/data.php:272
-msgid "Plus square 2"
-msgstr ""
+msgid "Plus square 1"
+msgstr "加号方1"
 
 #: inc/core/data.php:273
-msgid "Arrow"
-msgstr ""
+msgid "Plus square 2"
+msgstr "加号方2"
 
 #: inc/core/data.php:274
-msgid "Arrow circle 1"
-msgstr ""
+msgid "Arrow"
+msgstr "箭头"
 
 #: inc/core/data.php:275
-msgid "Arrow circle 2"
-msgstr ""
+msgid "Arrow circle 1"
+msgstr "箭头圈1"
 
 #: inc/core/data.php:276
-msgid "Chevron"
-msgstr ""
+msgid "Arrow circle 2"
+msgstr "箭头圈2"
 
 #: inc/core/data.php:277
-msgid "Chevron circle"
-msgstr ""
+msgid "Chevron"
+msgstr "大于号"
 
 #: inc/core/data.php:278
-msgid "Caret"
-msgstr ""
+msgid "Chevron circle"
+msgstr "大于号圈"
 
 #: inc/core/data.php:279
-msgid "Caret square"
-msgstr ""
+msgid "Caret"
+msgstr "尖号"
 
 #: inc/core/data.php:280
-msgid "Folder 1"
-msgstr ""
+msgid "Caret square"
+msgstr "尖号方"
 
 #: inc/core/data.php:281
+msgid "Folder 1"
+msgstr "文件夹1"
+
+#: inc/core/data.php:282
 msgid "Folder 2"
-msgstr ""
+msgstr "文件夹2"
 
-#: inc/core/data.php:284 inc/core/data.php:618 inc/core/data.php:723
-#: inc/core/data.php:773
+#: inc/core/data.php:285 inc/core/data.php:619 inc/core/data.php:724
+#: inc/core/data.php:774
 msgid "Icon"
-msgstr ""
+msgstr "图标"
 
-#: inc/core/data.php:285
+#: inc/core/data.php:286
 msgid "Icons for spoiler"
-msgstr ""
+msgstr "spoiler 图标"
 
-#: inc/core/data.php:290
+#: inc/core/data.php:291
 msgid ""
 "You can use unique anchor for this spoiler to access it with hash in page "
 "url. For example: type here <b%value>Hello</b> and then use url like http://"
 "example.com/page-url#Hello. This spoiler will be open and scrolled in"
 msgstr ""
 
-#: inc/core/data.php:298
-msgid "Hidden content"
-msgstr ""
-
 #: inc/core/data.php:299
+msgid "Hidden content"
+msgstr "隐藏内容"
+
+#: inc/core/data.php:300
 msgid "Spoiler with hidden content"
-msgstr ""
+msgstr "Spoiler 的隐藏内容"
 
-#: inc/core/data.php:304
+#: inc/core/data.php:305
 msgid "Accordion"
-msgstr ""
+msgstr "手风琴"
 
-#: inc/core/data.php:314
+#: inc/core/data.php:315
 msgid ""
 "[%prefix_spoiler]Content[/%prefix_spoiler]\n"
 "[%prefix_spoiler]Content[/%prefix_spoiler]\n"
 "[%prefix_spoiler]Content[/%prefix_spoiler]"
 msgstr ""
+"[%prefix_spoiler]内容[/%prefix_spoiler]\n"
+"[%prefix_spoiler]内容[/%prefix_spoiler]\n"
+"[%prefix_spoiler]内容[/%prefix_spoiler]"
 
-#: inc/core/data.php:315
+#: inc/core/data.php:316
 msgid "Accordion with spoilers"
-msgstr ""
+msgstr "带导流的手风琴"
 
-#: inc/core/data.php:320
+#: inc/core/data.php:321
 msgid "Divider"
-msgstr ""
-
-#: inc/core/data.php:327
-msgid "Show TOP link"
-msgstr ""
+msgstr "分隔符"
 
 #: inc/core/data.php:328
+msgid "Show TOP link"
+msgstr "显示 TOP 链接"
+
+#: inc/core/data.php:329
 msgid "Show link to top of the page or not"
-msgstr ""
+msgstr "是否显示返回顶部链接"
 
-#: inc/core/data.php:332 inc/core/shortcodes.php:99
+#: inc/core/data.php:333 inc/core/shortcodes.php:99
 msgid "Go to top"
-msgstr ""
+msgstr "Go to top"
 
-#: inc/core/data.php:333
+#: inc/core/data.php:334
 msgid "Link text"
-msgstr ""
+msgstr "链接文字"
 
-#: inc/core/data.php:333
+#: inc/core/data.php:334
 msgid "Text for the GO TOP link"
-msgstr ""
+msgstr "这个文字是用于GO TOP链接"
 
-#: inc/core/data.php:341
+#: inc/core/data.php:342
 msgid "Content divider with optional TOP link"
-msgstr ""
+msgstr "内容分隔符"
 
-#: inc/core/data.php:346
+#: inc/core/data.php:347
 msgid "Spacer"
-msgstr ""
+msgstr "间隔符"
 
-#: inc/core/data.php:356 inc/core/data.php:1071 inc/core/data.php:1127
-#: inc/core/data.php:1239 inc/core/data.php:1288 inc/core/data.php:1384
-#: inc/core/data.php:1640 inc/core/data.php:1679 inc/core/data.php:1751
-#: inc/core/data.php:1860 inc/core/data.php:1986 inc/core/data.php:2203
+#: inc/core/data.php:357 inc/core/data.php:1072 inc/core/data.php:1128
+#: inc/core/data.php:1240 inc/core/data.php:1289 inc/core/data.php:1385
+#: inc/core/data.php:1641 inc/core/data.php:1680 inc/core/data.php:1761
+#: inc/core/data.php:1879 inc/core/data.php:2014 inc/core/data.php:2231
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
-#: inc/core/data.php:357
+#: inc/core/data.php:358
 msgid "Height of the spacer in pixels"
-msgstr ""
+msgstr "间隔符的高度"
 
-#: inc/core/data.php:365
+#: inc/core/data.php:366
 msgid "Empty space with adjustable height"
-msgstr ""
+msgstr "高度可调间隔符"
 
-#: inc/core/data.php:370
+#: inc/core/data.php:371
 msgid "Highlight"
-msgstr ""
+msgstr "高亮"
 
-#: inc/core/data.php:378 inc/core/data.php:678 inc/core/data.php:867
+#: inc/core/data.php:379 inc/core/data.php:679 inc/core/data.php:868
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
-#: inc/core/data.php:379
+#: inc/core/data.php:380
 msgid "Highlighted text background color"
-msgstr ""
+msgstr "高亮文本的背景颜色"
 
-#: inc/core/data.php:385 inc/core/data.php:684 inc/core/data.php:873
+#: inc/core/data.php:386 inc/core/data.php:685 inc/core/data.php:874
 msgid "Text color"
-msgstr ""
+msgstr "文字颜色"
 
-#: inc/core/data.php:385
+#: inc/core/data.php:386
 msgid "Highlighted text color"
-msgstr ""
+msgstr "高亮文字颜色"
 
-#: inc/core/data.php:393 inc/core/data.php:394
+#: inc/core/data.php:394 inc/core/data.php:395
 msgid "Highlighted text"
-msgstr ""
+msgstr "高亮文本"
 
-#: inc/core/data.php:399 inc/core/data.php:423 inc/vendor/sunrise.php:409
+#: inc/core/data.php:400 inc/core/data.php:424 inc/vendor/sunrise.php:409
 msgid "Label"
-msgstr ""
-
-#: inc/core/data.php:407
-msgid "Success"
-msgstr ""
+msgstr "标记"
 
 #: inc/core/data.php:408
-msgid "Warning"
-msgstr ""
+msgid "Success"
+msgstr "成功"
 
 #: inc/core/data.php:409
-msgid "Important"
-msgstr ""
+msgid "Warning"
+msgstr "警告"
 
 #: inc/core/data.php:410
-msgid "Black"
-msgstr ""
+msgid "Important"
+msgstr "重要"
 
 #: inc/core/data.php:411
-msgid "Info"
-msgstr ""
+msgid "Black"
+msgstr "黑色"
 
-#: inc/core/data.php:414
-msgid "Type"
-msgstr ""
+#: inc/core/data.php:412
+msgid "Info"
+msgstr "信息"
 
 #: inc/core/data.php:415
+msgid "Type"
+msgstr "类型颜色"
+
+#: inc/core/data.php:416
 msgid "Style of the label"
-msgstr ""
+msgstr "标记的风格"
 
-#: inc/core/data.php:424
+#: inc/core/data.php:425
 msgid "Styled label"
-msgstr ""
+msgstr "多风格标记"
 
-#: inc/core/data.php:429 inc/core/data.php:459
+#: inc/core/data.php:430 inc/core/data.php:460
 msgid "Quote"
-msgstr ""
+msgstr "引用"
 
-#: inc/core/data.php:440
+#: inc/core/data.php:441
 msgid "Choose style for this quote"
-msgstr ""
-
-#: inc/core/data.php:444
-msgid "Cite"
-msgstr ""
+msgstr "选项引用的风格"
 
 #: inc/core/data.php:445
-msgid "Quote author name"
-msgstr ""
+msgid "Cite"
+msgstr "引用"
 
-#: inc/core/data.php:450
-msgid "Cite url"
-msgstr ""
+#: inc/core/data.php:446
+msgid "Quote author name"
+msgstr "引用作者姓名"
 
 #: inc/core/data.php:451
+msgid "Cite url"
+msgstr "引用链接"
+
+#: inc/core/data.php:452
 msgid "Url of the quote author. Leave empty to disable link"
-msgstr ""
+msgstr "引用作者的链接，留空禁用。"
 
-#: inc/core/data.php:460
+#: inc/core/data.php:461
 msgid "Blockquote alternative"
-msgstr ""
+msgstr "块引用"
 
-#: inc/core/data.php:465 inc/core/data.php:484 inc/core/data.php:485
+#: inc/core/data.php:466 inc/core/data.php:485 inc/core/data.php:486
 msgid "Pullquote"
-msgstr ""
+msgstr "重要引述"
 
-#: inc/core/data.php:476
+#: inc/core/data.php:477
 msgid "Pullquote alignment (float)"
-msgstr ""
+msgstr "引述的对齐方式"
 
-#: inc/core/data.php:490 inc/core/data.php:521
+#: inc/core/data.php:491 inc/core/data.php:522
 msgid "Dropcap"
-msgstr ""
+msgstr "下沉"
 
-#: inc/core/data.php:498 inc/core/data.php:663
+#: inc/core/data.php:499 inc/core/data.php:664
 msgid "Flat"
-msgstr ""
+msgstr "方块"
 
-#: inc/core/data.php:499
+#: inc/core/data.php:500
 msgid "Light"
-msgstr ""
+msgstr "亮白"
 
-#: inc/core/data.php:503
+#: inc/core/data.php:504
 msgid "Dropcap style preset"
-msgstr ""
+msgstr "首字下沉的风格"
 
-#: inc/core/data.php:512
+#: inc/core/data.php:513
 msgid "Choose dropcap size"
-msgstr ""
+msgstr "选择下沉的尺寸"
 
-#: inc/core/data.php:520
+#: inc/core/data.php:521
 msgid "D"
-msgstr ""
+msgstr "D"
 
-#: inc/core/data.php:526
+#: inc/core/data.php:527
 msgid "Frame"
-msgstr ""
+msgstr "边框"
 
-#: inc/core/data.php:539
+#: inc/core/data.php:540
 msgid "Frame alignment"
-msgstr ""
+msgstr "边框对齐"
 
-#: inc/core/data.php:548
+#: inc/core/data.php:549
 msgid "Styled image frame"
-msgstr ""
+msgstr "图片边框"
 
-#: inc/core/data.php:553
+#: inc/core/data.php:554
 msgid "Row"
-msgstr ""
+msgstr "行"
 
-#: inc/core/data.php:563
+#: inc/core/data.php:564
 msgid ""
 "[%prefix_column size=\"1/3\"]Content[/%prefix_column]\n"
 "[%prefix_column size=\"1/3\"]Content[/%prefix_column]\n"
 "[%prefix_column size=\"1/3\"]Content[/%prefix_column]"
 msgstr ""
+"[%prefix_column size=\"1/3\"]内容[/%prefix_column]\n"
+"[%prefix_column size=\"1/3\"]内容[/%prefix_column]\n"
+"[%prefix_column size=\"1/3\"]内容[/%prefix_column]"
 
-#: inc/core/data.php:564
+#: inc/core/data.php:565
 msgid "Row for flexible columns"
-msgstr ""
+msgstr "灵活的一行栏目"
 
-#: inc/core/data.php:569
+#: inc/core/data.php:570
 msgid "Column"
-msgstr ""
-
-#: inc/core/data.php:576
-msgid "Full width"
-msgstr ""
+msgstr "列"
 
 #: inc/core/data.php:577
-msgid "One half"
-msgstr ""
+msgid "Full width"
+msgstr "全宽"
 
 #: inc/core/data.php:578
-msgid "One third"
-msgstr ""
+msgid "One half"
+msgstr "二分之一"
 
 #: inc/core/data.php:579
-msgid "Two third"
-msgstr ""
+msgid "One third"
+msgstr "三分之一"
 
 #: inc/core/data.php:580
-msgid "One fourth"
-msgstr ""
+msgid "Two third"
+msgstr "三分之二"
 
 #: inc/core/data.php:581
-msgid "Three fourth"
-msgstr ""
+msgid "One fourth"
+msgstr "四分之一"
 
 #: inc/core/data.php:582
-msgid "One fifth"
-msgstr ""
+msgid "Three fourth"
+msgstr "四分之三"
 
 #: inc/core/data.php:583
-msgid "Two fifth"
-msgstr ""
+msgid "One fifth"
+msgstr "五分之一"
 
 #: inc/core/data.php:584
-msgid "Three fifth"
-msgstr ""
+msgid "Two fifth"
+msgstr "五分之二"
 
 #: inc/core/data.php:585
-msgid "Four fifth"
-msgstr ""
+msgid "Three fifth"
+msgstr "五分之三"
 
 #: inc/core/data.php:586
-msgid "One sixth"
-msgstr ""
+msgid "Four fifth"
+msgstr "五分之四"
 
 #: inc/core/data.php:587
+msgid "One sixth"
+msgstr "六分之一"
+
+#: inc/core/data.php:588
 msgid "Five sixth"
-msgstr ""
+msgstr "六分之五"
 
-#: inc/core/data.php:591
+#: inc/core/data.php:592
 msgid "Select column width. This width will be calculated depend page width"
-msgstr ""
+msgstr "选择列的宽度。这个宽度的计算方法取决于页面宽度。"
 
-#: inc/core/data.php:596 inc/core/data.php:704
+#: inc/core/data.php:597 inc/core/data.php:705
 msgid "Centered"
-msgstr ""
+msgstr "居中"
 
-#: inc/core/data.php:597
+#: inc/core/data.php:598
 msgid "Is this column centered on the page"
-msgstr ""
-
-#: inc/core/data.php:605
-msgid "Column content"
-msgstr ""
+msgstr "这个列在页面上居中"
 
 #: inc/core/data.php:606
+msgid "Column content"
+msgstr "列内容"
+
+#: inc/core/data.php:607
 msgid "Flexible and responsive columns"
-msgstr ""
+msgstr "灵活性和响应式列"
 
-#: inc/core/data.php:611
+#: inc/core/data.php:612
 msgid "List"
-msgstr ""
+msgstr "列表"
 
-#: inc/core/data.php:619
+#: inc/core/data.php:620
 msgid "You can upload custom icon for this list or pick a built-in icon"
-msgstr ""
-
-#: inc/core/data.php:624 inc/core/data.php:729 inc/core/data.php:779
-msgid "Icon color"
-msgstr ""
+msgstr "您可以为这个列表上传自定义图标或选择一个内置的图标"
 
 #: inc/core/data.php:625 inc/core/data.php:730 inc/core/data.php:780
+msgid "Icon color"
+msgstr "图标颜色"
+
+#: inc/core/data.php:626 inc/core/data.php:731 inc/core/data.php:781
 msgid ""
 "This color will be applied to the selected icon. Does not works with "
 "uploaded icons"
-msgstr ""
+msgstr "这种颜色将被应用到内置的图标。对自行上传的图标无效"
 
-#: inc/core/data.php:633
+#: inc/core/data.php:634
 msgid ""
 "<ul>\n"
 "<li>List item</li>\n"
@@ -909,273 +920,278 @@ msgid ""
 "<li>List item</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"<li>内容</li>\n"
+"<li>内容</li>\n"
+"<li>内容</li>\n"
+"</ul>"
 
-#: inc/core/data.php:634
+#: inc/core/data.php:635
 msgid "Styled unordered list"
-msgstr ""
+msgstr "无序列表"
 
-#: inc/core/data.php:639
+#: inc/core/data.php:640
 msgid "Button"
-msgstr ""
-
-#: inc/core/data.php:646
-msgid "Link"
-msgstr ""
+msgstr "按钮"
 
 #: inc/core/data.php:647
-msgid "Button link"
-msgstr ""
+msgid "Link"
+msgstr "链接"
 
-#: inc/core/data.php:652 inc/core/data.php:1450
-msgid "Same tab"
-msgstr ""
+#: inc/core/data.php:648
+msgid "Button link"
+msgstr "按钮链接"
 
 #: inc/core/data.php:653 inc/core/data.php:1451
+msgid "Same tab"
+msgstr "当前标签"
+
+#: inc/core/data.php:654 inc/core/data.php:1452
 msgid "New tab"
-msgstr ""
+msgstr "新建标签"
 
-#: inc/core/data.php:656 inc/core/data.php:1454
+#: inc/core/data.php:657 inc/core/data.php:1455
 msgid "Target"
-msgstr ""
+msgstr "打开方式"
 
-#: inc/core/data.php:657
+#: inc/core/data.php:658
 msgid "Button link target"
-msgstr ""
-
-#: inc/core/data.php:664 inc/core/data.php:816
-msgid "Soft"
-msgstr ""
+msgstr "按钮链接的打开方式"
 
 #: inc/core/data.php:665 inc/core/data.php:817
-msgid "Glass"
-msgstr ""
+msgid "Soft"
+msgstr "柔和"
 
 #: inc/core/data.php:666 inc/core/data.php:818
-msgid "Bubbles"
-msgstr ""
+msgid "Glass"
+msgstr "玻璃"
 
 #: inc/core/data.php:667 inc/core/data.php:819
-msgid "Noise"
-msgstr ""
+msgid "Bubbles"
+msgstr "气泡"
 
-#: inc/core/data.php:668
-msgid "Stroked"
-msgstr ""
+#: inc/core/data.php:668 inc/core/data.php:820
+msgid "Noise"
+msgstr "杂色"
 
 #: inc/core/data.php:669
+msgid "Stroked"
+msgstr "虚线"
+
+#: inc/core/data.php:670
 msgid "3D"
-msgstr ""
+msgstr "3D"
 
-#: inc/core/data.php:672
+#: inc/core/data.php:673
 msgid "Button background style preset"
-msgstr ""
+msgstr "按钮的背景风格预设"
 
-#: inc/core/data.php:678
+#: inc/core/data.php:679
 msgid "Button background color"
-msgstr ""
+msgstr "按钮背景颜色"
 
-#: inc/core/data.php:685
+#: inc/core/data.php:686
 msgid "Button text color"
-msgstr ""
+msgstr "按钮文字颜色"
 
-#: inc/core/data.php:694
+#: inc/core/data.php:695
 msgid "Button size"
-msgstr ""
+msgstr "按钮尺寸"
 
-#: inc/core/data.php:699
+#: inc/core/data.php:700
 msgid "Fluid"
-msgstr ""
+msgstr "流体"
 
-#: inc/core/data.php:699
+#: inc/core/data.php:700
 msgid "Fluid buttons has 100% width"
-msgstr ""
+msgstr "流体按钮有100％的宽度"
 
-#: inc/core/data.php:704
+#: inc/core/data.php:705
 msgid "Is button centered on the page"
-msgstr ""
-
-#: inc/core/data.php:709
-msgid "Auto"
-msgstr ""
+msgstr "按钮在页面上居中"
 
 #: inc/core/data.php:710
-msgid "Round"
-msgstr ""
+msgid "Auto"
+msgstr "自动"
 
 #: inc/core/data.php:711
+msgid "Round"
+msgstr "圆"
+
+#: inc/core/data.php:712
 msgid "Square"
-msgstr ""
+msgstr "方"
 
-#: inc/core/data.php:717 inc/core/data.php:844 inc/core/data.php:882
+#: inc/core/data.php:718 inc/core/data.php:845 inc/core/data.php:883
 msgid "Radius"
-msgstr ""
+msgstr "半径"
 
-#: inc/core/data.php:718
+#: inc/core/data.php:719
 msgid "Radius of button corners. Auto-radius calculation based on button size"
-msgstr ""
+msgstr "按钮半径角度。自动半径计算根据按钮大小。"
 
-#: inc/core/data.php:724
+#: inc/core/data.php:725
 msgid "You can upload custom icon for this button or pick a built-in icon"
-msgstr ""
-
-#: inc/core/data.php:735
-msgid "Text shadow"
-msgstr ""
+msgstr "您可以上传按钮自定义图标或选择一个内置的图标。"
 
 #: inc/core/data.php:736
-msgid "Button text shadow"
-msgstr ""
+msgid "Text shadow"
+msgstr "文字阴影"
 
-#: inc/core/data.php:740
-msgid "Description"
-msgstr ""
+#: inc/core/data.php:737
+msgid "Button text shadow"
+msgstr "按钮文字阴影"
 
 #: inc/core/data.php:741
+msgid "Description"
+msgstr "描述"
+
+#: inc/core/data.php:742
 msgid ""
 "Small description under button text. This option is incompatible with icon."
-msgstr ""
-
-#: inc/core/data.php:745
-msgid "onClick"
-msgstr ""
+msgstr "鼠标指在按钮上简短的文字描述。此选项与图标不兼容。"
 
 #: inc/core/data.php:746
-msgid "Advanced JavaScript code for onClick action"
-msgstr ""
+msgid "onClick"
+msgstr "点击"
 
-#: inc/core/data.php:754
-msgid "Button text"
-msgstr ""
+#: inc/core/data.php:747
+msgid "Advanced JavaScript code for onClick action"
+msgstr "点击动作的高级JavaScript代码"
 
 #: inc/core/data.php:755
+msgid "Button text"
+msgstr "按钮文字"
+
+#: inc/core/data.php:756
 msgid "Styled button"
-msgstr ""
+msgstr "风格按钮"
 
-#: inc/core/data.php:760
+#: inc/core/data.php:761
 msgid "Service"
-msgstr ""
+msgstr "服务"
 
-#: inc/core/data.php:766 inc/core/shortcodes.php:430
+#: inc/core/data.php:767 inc/core/shortcodes.php:430
 msgid "Service title"
-msgstr ""
+msgstr "服务标题"
 
-#: inc/core/data.php:768
+#: inc/core/data.php:769
 msgid "Service name"
-msgstr ""
+msgstr "服务名字"
 
-#: inc/core/data.php:774
+#: inc/core/data.php:775
 msgid "You can upload custom icon for this box"
-msgstr ""
-
-#: inc/core/data.php:788
-msgid "Icon size"
-msgstr ""
+msgstr "你可以上传一个自定义图标或选择一个内置图标"
 
 #: inc/core/data.php:789
-msgid "Size of the uploaded icon in pixels"
-msgstr ""
+msgid "Icon size"
+msgstr "图标尺寸"
 
-#: inc/core/data.php:797
-msgid "Service description"
-msgstr ""
+#: inc/core/data.php:790
+msgid "Size of the uploaded icon in pixels"
+msgstr "上传的图标尺寸"
 
 #: inc/core/data.php:798
-msgid "Service box with title"
-msgstr ""
+msgid "Service description"
+msgstr "服务说明"
 
-#: inc/core/data.php:809
-msgid "Box title"
-msgstr ""
+#: inc/core/data.php:799
+msgid "Service box with title"
+msgstr "服务框"
 
 #: inc/core/data.php:810
+msgid "Box title"
+msgstr "框标题"
+
+#: inc/core/data.php:811
 msgid "Text for the box title"
-msgstr ""
+msgstr "框标题的文字"
 
-#: inc/core/data.php:823
+#: inc/core/data.php:824
 msgid "Box style preset"
-msgstr ""
+msgstr "框预设风格"
 
-#: inc/core/data.php:829 inc/core/generator-views.php:91
+#: inc/core/data.php:830 inc/core/generator-views.php:99
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
-#: inc/core/data.php:830
+#: inc/core/data.php:831
 msgid "Color for the box title and borders"
-msgstr ""
+msgstr "框的标题和边的颜色"
 
-#: inc/core/data.php:836
+#: inc/core/data.php:837
 msgid "Title text color"
-msgstr ""
+msgstr "标题文字颜色"
 
-#: inc/core/data.php:836
+#: inc/core/data.php:837
 msgid "Color for the box title text"
-msgstr ""
+msgstr "框的标题颜色"
 
-#: inc/core/data.php:845
+#: inc/core/data.php:846
 msgid "Box corners radius"
-msgstr ""
-
-#: inc/core/data.php:853
-msgid "Box content"
-msgstr ""
+msgstr "框角半径"
 
 #: inc/core/data.php:854
+msgid "Box content"
+msgstr "框内容"
+
+#: inc/core/data.php:855
 msgid "Colored box with caption"
-msgstr ""
+msgstr "颜色框"
 
-#: inc/core/data.php:859
+#: inc/core/data.php:860
 msgid "Note"
-msgstr ""
+msgstr "注释"
 
-#: inc/core/data.php:867
+#: inc/core/data.php:868
 msgid "Note background color"
-msgstr ""
+msgstr "注释背景颜色"
 
-#: inc/core/data.php:874
+#: inc/core/data.php:875
 msgid "Note text color"
-msgstr ""
+msgstr "注释文字颜色"
 
-#: inc/core/data.php:882
+#: inc/core/data.php:883
 msgid "Note corners radius"
-msgstr ""
-
-#: inc/core/data.php:890
-msgid "Note text"
-msgstr ""
+msgstr "注释边角半径"
 
 #: inc/core/data.php:891
+msgid "Note text"
+msgstr "注释文字"
+
+#: inc/core/data.php:892
 msgid "Colored box"
-msgstr ""
+msgstr "彩色框"
 
-#: inc/core/data.php:896
+#: inc/core/data.php:897
 msgid "Lightbox"
-msgstr ""
-
-#: inc/core/data.php:903
-msgid "Iframe"
-msgstr ""
+msgstr "灯箱"
 
 #: inc/core/data.php:904
-msgid "Image"
-msgstr ""
+msgid "Iframe"
+msgstr "Iframe"
 
 #: inc/core/data.php:905
-msgid "Inline (html content)"
-msgstr ""
+msgid "Image"
+msgstr "Image"
 
-#: inc/core/data.php:908
-msgid "Content type"
-msgstr ""
+#: inc/core/data.php:906
+msgid "Inline (html content)"
+msgstr "Inline (html content)"
 
 #: inc/core/data.php:909
-msgid "Select type of the lightbox window content"
-msgstr ""
+msgid "Content type"
+msgstr "内容类型"
 
-#: inc/core/data.php:913
-msgid "Content source"
-msgstr ""
+#: inc/core/data.php:910
+msgid "Select type of the lightbox window content"
+msgstr "选择灯箱窗口内容的类型"
 
 #: inc/core/data.php:914
+msgid "Content source"
+msgstr "内容来源"
+
+#: inc/core/data.php:915
 msgid ""
 "Insert here URL or CSS selector. Use URL for Iframe and Image content types. "
 "Use CSS selector for Inline content type.<br />Example values:<br /><b"
@@ -1184,337 +1200,345 @@ msgid ""
 "uploaded image (image)<br /><b%value>http://example.com/</b> - any web page "
 "(iframe)<br /><b%value>#contact-form</b> - any HTML content (inline)"
 msgstr ""
-
-#: inc/core/data.php:922
-msgid "[%prefix_button] Click Here to Watch the Video [/%prefix_button]"
-msgstr ""
+"在此处插入URL或CSS选择器。使用URL从I视频和图片的内容类型。使用CSS选择器，内嵌"
+"的内容类型。<br />例如输入:<br /><b%value>http://www.youtube.com/watch?"
+"v=XXXXXXXXX</b> - YouTube 视频 (iframe)<br /><b%value>http://example.com/wp-"
+"content/uploads/image.jpg</b> - 上传的图片 (image)<br /><b%value>http://"
+"example.com/</b> - 任何网页 (iframe)<br /><b%value>#contact-form</b> -任何"
+"HTML内容 (inline)"
 
 #: inc/core/data.php:923
+msgid "[%prefix_button] Click Here to Watch the Video [/%prefix_button]"
+msgstr "[%prefix_button] 点击这里观看视频 [/%prefix_button]"
+
+#: inc/core/data.php:924
 msgid "Lightbox window with custom content"
-msgstr ""
+msgstr "自定义内容灯箱"
 
-#: inc/core/data.php:928
+#: inc/core/data.php:929
 msgid "Tooltip"
-msgstr ""
-
-#: inc/core/data.php:935
-msgid "Basic: Light"
-msgstr ""
+msgstr "提示工具"
 
 #: inc/core/data.php:936
-msgid "Basic: Dark"
-msgstr ""
+msgid "Basic: Light"
+msgstr "基本：亮"
 
 #: inc/core/data.php:937
-msgid "Basic: Yellow"
-msgstr ""
+msgid "Basic: Dark"
+msgstr "基本：暗"
 
 #: inc/core/data.php:938
-msgid "Basic: Green"
-msgstr ""
+msgid "Basic: Yellow"
+msgstr "基本：黄"
 
 #: inc/core/data.php:939
-msgid "Basic: Red"
-msgstr ""
+msgid "Basic: Green"
+msgstr "基本：绿"
 
 #: inc/core/data.php:940
-msgid "Basic: Blue"
-msgstr ""
+msgid "Basic: Red"
+msgstr "基本：红"
 
 #: inc/core/data.php:941
-msgid "Youtube"
-msgstr ""
+msgid "Basic: Blue"
+msgstr "基本：蓝"
 
 #: inc/core/data.php:942
-msgid "Tipsy"
-msgstr ""
+msgid "Youtube"
+msgstr "Youtube"
 
 #: inc/core/data.php:943
-msgid "Bootstrap"
-msgstr ""
+msgid "Tipsy"
+msgstr "黑"
 
 #: inc/core/data.php:944
-msgid "jTools"
-msgstr ""
+msgid "Bootstrap"
+msgstr "自举"
 
 #: inc/core/data.php:945
-msgid "Tipped"
-msgstr ""
+msgid "jTools"
+msgstr "阴影"
 
 #: inc/core/data.php:946
+msgid "Tipped"
+msgstr "尖"
+
+#: inc/core/data.php:947
 msgid "Cluetip"
-msgstr ""
+msgstr "灰"
 
-#: inc/core/data.php:950
+#: inc/core/data.php:951
 msgid "Tooltip window style"
-msgstr ""
-
-#: inc/core/data.php:955
-msgid "Top"
-msgstr ""
+msgstr "提示窗口样式"
 
 #: inc/core/data.php:956
-msgid "Bottom"
-msgstr ""
+msgid "Top"
+msgstr "上"
 
-#: inc/core/data.php:961
-msgid "Position"
-msgstr ""
+#: inc/core/data.php:957
+msgid "Bottom"
+msgstr "下"
 
 #: inc/core/data.php:962
-msgid "Tooltip position"
-msgstr ""
+msgid "Position"
+msgstr "位置"
 
-#: inc/core/data.php:967
-msgid "Shadow"
-msgstr ""
+#: inc/core/data.php:963
+msgid "Tooltip position"
+msgstr "提示工具位置"
 
 #: inc/core/data.php:968
+msgid "Shadow"
+msgstr "阴影"
+
+#: inc/core/data.php:969
 msgid ""
 "Add shadow to tooltip. This option is only works with basic styes, e.g. "
 "blue, green etc."
-msgstr ""
-
-#: inc/core/data.php:973
-msgid "Rounded corners"
-msgstr ""
+msgstr "给提示工具添加阴影，只能用于基本风格，例如 基本：蓝、基本：绿等。"
 
 #: inc/core/data.php:974
+msgid "Rounded corners"
+msgstr "圆角"
+
+#: inc/core/data.php:975
 msgid ""
 "Use rounded for tooltip. This option is only works with basic styes, e.g. "
 "blue, green etc."
-msgstr ""
-
-#: inc/core/data.php:988
-msgid "Font size"
-msgstr ""
+msgstr "使用圆形的提示工具，只能用于基本风格，例如 基本：蓝、基本：绿等。"
 
 #: inc/core/data.php:989
-msgid "Tooltip font size"
-msgstr ""
+msgid "Font size"
+msgstr "字体大小"
 
-#: inc/core/data.php:993
-msgid "Tooltip title"
-msgstr ""
+#: inc/core/data.php:990
+msgid "Tooltip font size"
+msgstr "提示工具字体大小"
 
 #: inc/core/data.php:994
+msgid "Tooltip title"
+msgstr "提示工具标题"
+
+#: inc/core/data.php:995
 msgid ""
 "Enter title for tooltip window. Leave this field empty to hide the title"
-msgstr ""
+msgstr "为提示工具窗口中输入标题。将此字段留空，以隐藏标题。"
 
-#: inc/core/data.php:997 inc/core/shortcodes.php:508
+#: inc/core/data.php:998 inc/core/shortcodes.php:508
 msgid "Tooltip text"
-msgstr ""
-
-#: inc/core/data.php:998
-msgid "Tooltip content"
-msgstr ""
+msgstr "提示工具文字"
 
 #: inc/core/data.php:999
-msgid "Enter tooltip content here"
-msgstr ""
+msgid "Tooltip content"
+msgstr "提示工具内容"
 
-#: inc/core/data.php:1004
-msgid "Show and hide on mouse hover"
-msgstr ""
+#: inc/core/data.php:1000
+msgid "Enter tooltip content here"
+msgstr "这里输入提示工具内容"
 
 #: inc/core/data.php:1005
-msgid "Show and hide by mouse click"
-msgstr ""
+msgid "Show and hide on mouse hover"
+msgstr "鼠标悬停显示和隐藏"
 
 #: inc/core/data.php:1006
-msgid "Always visible"
-msgstr ""
+msgid "Show and hide by mouse click"
+msgstr "鼠标点击显示和隐藏"
 
-#: inc/core/data.php:1009
-msgid "Behavior"
-msgstr ""
+#: inc/core/data.php:1007
+msgid "Always visible"
+msgstr "始终可见"
 
 #: inc/core/data.php:1010
-msgid "Select tooltip behavior"
-msgstr ""
+msgid "Behavior"
+msgstr "显示方式"
 
-#: inc/core/data.php:1015
-msgid "Close button"
-msgstr ""
+#: inc/core/data.php:1011
+msgid "Select tooltip behavior"
+msgstr "选择提示工具的显示方式"
 
 #: inc/core/data.php:1016
-msgid "Show close button"
-msgstr ""
+msgid "Close button"
+msgstr "关闭按钮"
 
-#: inc/core/data.php:1024
-msgid "[%prefix_button] Hover me to open tooltip [/%prefix_button]"
-msgstr ""
+#: inc/core/data.php:1017
+msgid "Show close button"
+msgstr "显示时关闭按钮"
 
 #: inc/core/data.php:1025
+msgid "[%prefix_button] Hover me to open tooltip [/%prefix_button]"
+msgstr "[%prefix_button] 将鼠标悬停我打开工具提示 [/%prefix_button]"
+
+#: inc/core/data.php:1026
 msgid "Tooltip window with custom content"
-msgstr ""
+msgstr "自定义内容提示工具"
 
-#: inc/core/data.php:1030
+#: inc/core/data.php:1031
 msgid "Private"
-msgstr ""
-
-#: inc/core/data.php:1040
-msgid "Private note text"
-msgstr ""
+msgstr "私人"
 
 #: inc/core/data.php:1041
+msgid "Private note text"
+msgstr "私人注释文本"
+
+#: inc/core/data.php:1042
 msgid "Private note for post authors"
-msgstr ""
+msgstr "私人注释"
 
-#: inc/core/data.php:1046
+#: inc/core/data.php:1047
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
-#: inc/core/data.php:1053 inc/core/data.php:1104 inc/core/data.php:1222
-#: inc/core/data.php:1271 inc/core/data.php:1525 inc/core/data.php:1622
+#: inc/core/data.php:1054 inc/core/data.php:1105 inc/core/data.php:1223
+#: inc/core/data.php:1272 inc/core/data.php:1526 inc/core/data.php:1623
 msgid "Url"
-msgstr ""
+msgstr "链接"
 
-#: inc/core/data.php:1054 inc/core/data.php:1105
+#: inc/core/data.php:1055 inc/core/data.php:1106
 msgid "Url of YouTube page with video. Ex: http://youtube.com/watch?v=XXXXXX"
-msgstr ""
-
-#: inc/core/data.php:1062 inc/core/data.php:1118 inc/core/data.php:1230
-#: inc/core/data.php:1279 inc/core/data.php:1321 inc/core/data.php:1375
-#: inc/core/data.php:1631 inc/core/data.php:1670 inc/core/data.php:1743
-#: inc/core/data.php:1851 inc/core/data.php:1978 inc/core/data.php:2194
-msgid "Width"
-msgstr ""
+msgstr "YouTube视频的页面链接 例：http://youtube.com/watch?v=XXXXXX"
 
 #: inc/core/data.php:1063 inc/core/data.php:1119 inc/core/data.php:1231
-#: inc/core/data.php:1280 inc/core/data.php:1376
+#: inc/core/data.php:1280 inc/core/data.php:1322 inc/core/data.php:1376
+#: inc/core/data.php:1632 inc/core/data.php:1671 inc/core/data.php:1753
+#: inc/core/data.php:1870 inc/core/data.php:2006 inc/core/data.php:2222
+msgid "Width"
+msgstr "宽度"
+
+#: inc/core/data.php:1064 inc/core/data.php:1120 inc/core/data.php:1232
+#: inc/core/data.php:1281 inc/core/data.php:1377
 msgid "Player width"
-msgstr ""
+msgstr "播放器宽度"
 
-#: inc/core/data.php:1072 inc/core/data.php:1128 inc/core/data.php:1240
-#: inc/core/data.php:1289 inc/core/data.php:1385
+#: inc/core/data.php:1073 inc/core/data.php:1129 inc/core/data.php:1241
+#: inc/core/data.php:1290 inc/core/data.php:1386
 msgid "Player height"
-msgstr ""
-
-#: inc/core/data.php:1077 inc/core/data.php:1133 inc/core/data.php:1245
-#: inc/core/data.php:1294 inc/core/data.php:1646 inc/core/data.php:1685
-#: inc/core/data.php:1756 inc/core/data.php:1866
-msgid "Responsive"
-msgstr ""
+msgstr "播放器高度"
 
 #: inc/core/data.php:1078 inc/core/data.php:1134 inc/core/data.php:1246
-#: inc/core/data.php:1295
-msgid "Ignore width and height parameters and make player responsive"
-msgstr ""
+#: inc/core/data.php:1295 inc/core/data.php:1647 inc/core/data.php:1686
+#: inc/core/data.php:1766 inc/core/data.php:1885
+msgid "Responsive"
+msgstr "响应式"
 
-#: inc/core/data.php:1083 inc/core/data.php:1167 inc/core/data.php:1251
-#: inc/core/data.php:1327 inc/core/data.php:1396 inc/core/data.php:1791
-#: inc/core/data.php:1918
-msgid "Autoplay"
-msgstr ""
+#: inc/core/data.php:1079 inc/core/data.php:1135 inc/core/data.php:1247
+#: inc/core/data.php:1296
+msgid "Ignore width and height parameters and make player responsive"
+msgstr "忽略宽度和高度参数，使播放器响应式。"
 
 #: inc/core/data.php:1084 inc/core/data.php:1168 inc/core/data.php:1252
+#: inc/core/data.php:1328 inc/core/data.php:1397 inc/core/data.php:1801
+#: inc/core/data.php:1937
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: inc/core/data.php:1085 inc/core/data.php:1169 inc/core/data.php:1253
 msgid "Play video automatically when page is loaded"
-msgstr ""
+msgstr "页面加载视频时自动播放"
 
-#: inc/core/data.php:1092
+#: inc/core/data.php:1093
 msgid "YouTube video"
-msgstr ""
+msgstr "YouTube视频"
 
-#: inc/core/data.php:1097
+#: inc/core/data.php:1098
 msgid "YouTube Advanced"
-msgstr ""
-
-#: inc/core/data.php:1109
-msgid "Playlist"
-msgstr ""
+msgstr "高级YouTube"
 
 #: inc/core/data.php:1110
+msgid "Playlist"
+msgstr "播放列表"
+
+#: inc/core/data.php:1111
 msgid ""
 "Value is a comma-separated list of video IDs to play. If you specify a "
 "value, the first video that plays will be the VIDEO_ID specified in the URL "
 "path, and the videos specified in the playlist parameter will play thereafter"
-msgstr ""
-
-#: inc/core/data.php:1139
-msgid "0 - Hide controls"
-msgstr ""
+msgstr "该值是一个以逗号分隔的视频ID播放列表。"
 
 #: inc/core/data.php:1140
-msgid "1 - Show controls"
-msgstr ""
+msgid "0 - Hide controls"
+msgstr "0 - 隐藏控件"
 
 #: inc/core/data.php:1141
+msgid "1 - Show controls"
+msgstr "1 - 显示控制"
+
+#: inc/core/data.php:1142
 msgid "2 - Show controls when playback is started"
-msgstr ""
+msgstr "2 - 开始播放时显示控件"
 
-#: inc/core/data.php:1144 inc/core/data.php:1390
+#: inc/core/data.php:1145 inc/core/data.php:1391
 msgid "Controls"
-msgstr ""
+msgstr "控件"
 
-#: inc/core/data.php:1145
+#: inc/core/data.php:1146
 msgid "This parameter indicates whether the video player controls will display"
-msgstr ""
-
-#: inc/core/data.php:1150
-msgid "0 - Do not hide controls"
-msgstr ""
+msgstr "该参数表示的视频播放控件是否显示"
 
 #: inc/core/data.php:1151
-msgid "1 - Hide all controls on mouse out"
-msgstr ""
+msgid "0 - Do not hide controls"
+msgstr "0 - 不隐藏控件"
 
 #: inc/core/data.php:1152
-msgid "2 - Hide progress bar on mouse out"
-msgstr ""
+msgid "1 - Hide all controls on mouse out"
+msgstr "1 - 在鼠标移出隐藏所有控件"
 
-#: inc/core/data.php:1155
-msgid "Autohide"
-msgstr ""
+#: inc/core/data.php:1153
+msgid "2 - Hide progress bar on mouse out"
+msgstr "2 - 在鼠标移出来隐藏进度条"
 
 #: inc/core/data.php:1156
+msgid "Autohide"
+msgstr "自动隐藏"
+
+#: inc/core/data.php:1157
 msgid ""
 "This parameter indicates whether the video controls will automatically hide "
 "after a video begins playing"
-msgstr ""
-
-#: inc/core/data.php:1161
-msgid "Show title bar"
-msgstr ""
+msgstr "该参数表示是否在视频开始播放后，视频控件会自动隐藏"
 
 #: inc/core/data.php:1162
+msgid "Show title bar"
+msgstr "显示标题栏"
+
+#: inc/core/data.php:1163
 msgid ""
 "If you set the parameter value to NO, then the player will not display "
 "information like the video title and uploader before the video starts "
 "playing."
 msgstr ""
+"如视频标题和上传视频开始播放之前。如果您将参数值设置为NO，那么播放器将不显示"
+"信息。"
 
-#: inc/core/data.php:1173 inc/core/data.php:1333 inc/core/data.php:1402
+#: inc/core/data.php:1174 inc/core/data.php:1334 inc/core/data.php:1403
 msgid "Loop"
-msgstr ""
+msgstr "循环"
 
-#: inc/core/data.php:1174
+#: inc/core/data.php:1175
 msgid ""
 "Setting of YES will cause the player to play the initial video again and "
 "again"
-msgstr ""
-
-#: inc/core/data.php:1179
-msgid "Related videos"
-msgstr ""
+msgstr "设定是会造成播放器一次又一次的播放视频"
 
 #: inc/core/data.php:1180
+msgid "Related videos"
+msgstr "相关视频"
+
+#: inc/core/data.php:1181
 msgid ""
 "This parameter indicates whether the player should show related videos when "
 "playback of the initial video ends"
-msgstr ""
-
-#: inc/core/data.php:1185
-msgid "Show full-screen button"
-msgstr ""
+msgstr "此参数指示播放器播放视频结束时是否应显示相关视频"
 
 #: inc/core/data.php:1186
+msgid "Show full-screen button"
+msgstr "显示全屏按钮"
+
+#: inc/core/data.php:1187
 msgid ""
 "Setting this parameter to NO prevents the fullscreen button from displaying"
-msgstr ""
+msgstr "如果将该参数设置为NO，无法显示全屏按钮"
 
-#: inc/core/data.php:1192
+#: inc/core/data.php:1193
 msgid ""
 "This parameter lets you use a YouTube player that does not show a YouTube "
 "logo. Set the parameter value to YES to prevent the YouTube logo from "
@@ -1522,125 +1546,131 @@ msgid ""
 "still display in the upper-right corner of a paused video when the user's "
 "mouse pointer hovers over the player"
 msgstr ""
-
-#: inc/core/data.php:1197
-msgid "Dark theme"
-msgstr ""
+"此参数可让您使用YouTube播放器并不显示一个YouTube LOGO。将参数值设置为YES以防"
+"止YouTube标志显示在控制栏。需要注意的是暂停视频时当用户的鼠标指针悬停在播放器"
+"上YouTube文本标签将仍处于的右上角显示。"
 
 #: inc/core/data.php:1198
+msgid "Dark theme"
+msgstr "暗的主题"
+
+#: inc/core/data.php:1199
 msgid "Light theme"
-msgstr ""
+msgstr "亮的主题"
 
-#: inc/core/data.php:1201 inc/core/data.php:2225
+#: inc/core/data.php:1202 inc/core/data.php:2253
 msgid "Theme"
-msgstr ""
+msgstr "主题"
 
-#: inc/core/data.php:1202
+#: inc/core/data.php:1203
 msgid ""
 "This parameter indicates whether the embedded player will display player "
 "controls (like a play button or volume control) within a dark or light "
 "control bar"
 msgstr ""
+"该参数表示的嵌入式播放器是否会显示暗或亮的播放控件（如播放键或音量控制）"
 
-#: inc/core/data.php:1210
+#: inc/core/data.php:1211
 msgid "YouTube video player with advanced settings"
-msgstr ""
+msgstr "YouTube视频播放器的高级设置"
 
-#: inc/core/data.php:1215
+#: inc/core/data.php:1216
 msgid "Vimeo"
-msgstr ""
+msgstr "Vimeo"
 
-#: inc/core/data.php:1222
+#: inc/core/data.php:1223
 msgid "Url of Vimeo page with video"
-msgstr ""
+msgstr "Vimeo视频页面链接"
 
-#: inc/core/data.php:1260
+#: inc/core/data.php:1261
 msgid "Vimeo video"
-msgstr ""
+msgstr "Vimeo视频"
 
-#: inc/core/data.php:1265
+#: inc/core/data.php:1266
 msgid "Screenr"
-msgstr ""
+msgstr "Screenr"
 
-#: inc/core/data.php:1271
+#: inc/core/data.php:1272
 msgid "Url of Screenr page with video"
-msgstr ""
+msgstr "Screenr 视频页面链接"
 
-#: inc/core/data.php:1303
+#: inc/core/data.php:1304
 msgid "Screenr video"
-msgstr ""
+msgstr "Screenr视频"
 
-#: inc/core/data.php:1308
+#: inc/core/data.php:1309
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
-#: inc/core/data.php:1315 inc/core/data.php:1354
+#: inc/core/data.php:1316 inc/core/data.php:1355
 msgid "File"
-msgstr ""
+msgstr "文件"
 
-#: inc/core/data.php:1316
+#: inc/core/data.php:1317
 msgid "Audio file url. Supported formats: mp3, ogg"
-msgstr ""
+msgstr "音频文件链接。支持格式：mp3,ogg"
 
-#: inc/core/data.php:1322
+#: inc/core/data.php:1323
 msgid ""
 "Player width. You can specify width in percents and player will be "
 "responsive. Example values: <b%value>200px</b>, <b%value>100&#37;</b>"
 msgstr ""
+"播放器宽度。你可以使用百分比或指定宽度。例如：<b%value>200px</b>, <b"
+"%value>100&#37;</b>"
 
-#: inc/core/data.php:1328 inc/core/data.php:1397
+#: inc/core/data.php:1329 inc/core/data.php:1398
 msgid "Play file automatically when page is loaded"
-msgstr ""
+msgstr "页面加载时自动播放文件。"
 
-#: inc/core/data.php:1334 inc/core/data.php:1403
+#: inc/core/data.php:1335 inc/core/data.php:1404
 msgid "Repeat when playback is ended"
-msgstr ""
+msgstr "当播放结束重复播放。"
 
-#: inc/core/data.php:1342
+#: inc/core/data.php:1343
 msgid "Custom audio player"
-msgstr ""
+msgstr "自定义音频播放器"
 
-#: inc/core/data.php:1347
+#: inc/core/data.php:1348
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
-#: inc/core/data.php:1355
+#: inc/core/data.php:1356
 msgid "Url to mp4/flv video-file"
-msgstr ""
-
-#: inc/core/data.php:1360
-msgid "Poster"
-msgstr ""
+msgstr "mp4或flv格式的视频文件链接"
 
 #: inc/core/data.php:1361
+msgid "Poster"
+msgstr "海报"
+
+#: inc/core/data.php:1362
 msgid "Url to poster image, that will be shown before playback"
-msgstr ""
+msgstr "海报图像的链接，将在播放前显示在视频窗口上。"
 
-#: inc/core/data.php:1367
+#: inc/core/data.php:1368
 msgid "Player title"
-msgstr ""
+msgstr "播放器标题"
 
-#: inc/core/data.php:1391
+#: inc/core/data.php:1392
 msgid "Show player controls (play/pause etc.) or not"
-msgstr ""
+msgstr "显示播放控制（播放/暂停等）或不"
 
-#: inc/core/data.php:1411
+#: inc/core/data.php:1412
 msgid "Custom video player"
-msgstr ""
+msgstr "自定义视频播放器"
 
-#: inc/core/data.php:1416
+#: inc/core/data.php:1417
 msgid "Table"
-msgstr ""
-
-#: inc/core/data.php:1423
-msgid "CSV file"
-msgstr ""
+msgstr "表格"
 
 #: inc/core/data.php:1424
-msgid "Upload CSV file if you want to create HTML-table from file"
-msgstr ""
+msgid "CSV file"
+msgstr "CSV文件"
 
-#: inc/core/data.php:1432
+#: inc/core/data.php:1425
+msgid "Upload CSV file if you want to create HTML-table from file"
+msgstr "上传CSV文件"
+
+#: inc/core/data.php:1433
 msgid ""
 "<table>\n"
 "<tr>\n"
@@ -1653,423 +1683,448 @@ msgid ""
 "</tr>\n"
 "</table>"
 msgstr ""
+"<table>\n"
+"<tr>\n"
+"\t<td>内容</td>\n"
+"\t<td>内容</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>内容</td>\n"
+"\t<td>T内容</td>\n"
+"</tr>\n"
+"</table>"
 
-#: inc/core/data.php:1433
+#: inc/core/data.php:1434
 msgid "Styled table from HTML or CSV file"
-msgstr ""
+msgstr "HTML表格或CSV"
 
-#: inc/core/data.php:1438
+#: inc/core/data.php:1439
 msgid "Permalink"
-msgstr ""
+msgstr "固定链接"
 
-#: inc/core/data.php:1444
+#: inc/core/data.php:1445 inc/core/data.php:2362
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
-#: inc/core/data.php:1445
+#: inc/core/data.php:1446
 msgid "Post or page ID"
-msgstr ""
+msgstr "文章或页面的ID"
 
-#: inc/core/data.php:1455
+#: inc/core/data.php:1456
 msgid "Link target. blank - link will be opened in new window/tab"
-msgstr ""
+msgstr "链接的打开方式"
 
-#: inc/core/data.php:1464
+#: inc/core/data.php:1465
 msgid "Permalink to specified post/page"
-msgstr ""
+msgstr "文章或页面链接"
 
-#: inc/core/data.php:1469
+#: inc/core/data.php:1470
 msgid "Members"
-msgstr ""
+msgstr "会员"
 
-#: inc/core/data.php:1474 inc/core/shortcodes.php:756
+#: inc/core/data.php:1475 inc/core/shortcodes.php:756
 msgid "This content is for registered users only. Please %login%."
-msgstr ""
+msgstr "此内容仅供注册用户。请 %登录%."
 
-#: inc/core/data.php:1475
+#: inc/core/data.php:1476
 msgid "Message"
-msgstr ""
+msgstr "信息"
 
-#: inc/core/data.php:1475
+#: inc/core/data.php:1476
 msgid "Message for not logged users"
-msgstr ""
+msgstr "没有注册登录用户的提示信息"
 
-#: inc/core/data.php:1480
+#: inc/core/data.php:1481
 msgid "Box color"
-msgstr ""
+msgstr "框子的颜色"
 
-#: inc/core/data.php:1480
+#: inc/core/data.php:1481
 msgid "This color will applied only to box for not logged users"
-msgstr ""
+msgstr "这种颜色将仅适用于尚未登录用户"
 
-#: inc/core/data.php:1483 inc/core/shortcodes.php:759
+#: inc/core/data.php:1484 inc/core/shortcodes.php:759
 msgid "login"
-msgstr ""
+msgstr "登录"
 
-#: inc/core/data.php:1484
+#: inc/core/data.php:1485
 msgid "Login link text"
-msgstr ""
+msgstr "登录链接文字"
 
-#: inc/core/data.php:1484
+#: inc/core/data.php:1485
 msgid "Text for the login link"
-msgstr ""
+msgstr "文字用于登录链接"
 
-#: inc/core/data.php:1488
+#: inc/core/data.php:1489
 msgid "Login link url"
-msgstr ""
-
-#: inc/core/data.php:1496
-msgid "Content for logged members"
-msgstr ""
+msgstr "登录链接地址"
 
 #: inc/core/data.php:1497
+msgid "Content for logged members"
+msgstr "登录用户的内容"
+
+#: inc/core/data.php:1498
 msgid "Content for logged in members only"
-msgstr ""
+msgstr "只对已经登录的用户显示"
 
-#: inc/core/data.php:1502
+#: inc/core/data.php:1503
 msgid "Guests"
-msgstr ""
-
-#: inc/core/data.php:1512
-msgid "Content for guests"
-msgstr ""
+msgstr "宾客"
 
 #: inc/core/data.php:1513
+msgid "Content for guests"
+msgstr "宾客的内容"
+
+#: inc/core/data.php:1514
 msgid "Content for guests only"
-msgstr ""
+msgstr "只对宾客显示的内容"
 
-#: inc/core/data.php:1518
+#: inc/core/data.php:1519
 msgid "RSS Feed"
-msgstr ""
+msgstr "RSS订阅"
 
-#: inc/core/data.php:1526
+#: inc/core/data.php:1527
 msgid "Url to RSS-feed"
-msgstr ""
+msgstr "RSS订阅地址"
 
-#: inc/core/data.php:1534
+#: inc/core/data.php:1535 inc/core/data.php:1722 inc/core/data.php:1839
+#: inc/core/data.php:1975
 msgid "Limit"
-msgstr ""
+msgstr "限量"
 
-#: inc/core/data.php:1534
+#: inc/core/data.php:1535
 msgid "Number of items to show"
-msgstr ""
+msgstr "显示项目数量"
 
-#: inc/core/data.php:1542
+#: inc/core/data.php:1543
 msgid "Feed grabber"
-msgstr ""
+msgstr "订阅采集"
 
-#: inc/core/data.php:1547
+#: inc/core/data.php:1548
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
-#: inc/core/data.php:1554
+#: inc/core/data.php:1555
 msgid "Menu name"
-msgstr ""
+msgstr "菜单名字"
 
-#: inc/core/data.php:1554
+#: inc/core/data.php:1555
 msgid "Custom menu name. Ex: Main menu"
-msgstr ""
+msgstr "自定义菜单的名字：例：主菜单"
 
-#: inc/core/data.php:1562
+#: inc/core/data.php:1563
 msgid "Custom menu by name"
-msgstr ""
+msgstr "自定义菜单"
 
-#: inc/core/data.php:1567
+#: inc/core/data.php:1568
 msgid "Sub pages"
-msgstr ""
+msgstr "子页面"
 
-#: inc/core/data.php:1574 inc/core/data.php:1601
+#: inc/core/data.php:1575 inc/core/data.php:1602
 msgid "Depth"
-msgstr ""
+msgstr "层数"
 
-#: inc/core/data.php:1575
+#: inc/core/data.php:1576
 msgid "Max depth level of children pages"
-msgstr ""
-
-#: inc/core/data.php:1580
-msgid "Parent ID"
-msgstr ""
+msgstr "子页面的最大层数级别"
 
 #: inc/core/data.php:1581
+msgid "Parent ID"
+msgstr "父级ID"
+
+#: inc/core/data.php:1582
 msgid "ID of the parent page. Leave blank to use current page"
-msgstr ""
+msgstr "父级页面的ID。留空将使用当前页。"
 
-#: inc/core/data.php:1589
+#: inc/core/data.php:1590
 msgid "List of sub pages"
-msgstr ""
+msgstr "子页面的列表"
 
-#: inc/core/data.php:1594
+#: inc/core/data.php:1595
 msgid "Siblings"
-msgstr ""
+msgstr "相关页面"
 
-#: inc/core/data.php:1602
+#: inc/core/data.php:1603
 msgid "Max depth level"
-msgstr ""
+msgstr "最大层数级别"
 
-#: inc/core/data.php:1610
+#: inc/core/data.php:1611
 msgid "List of cureent page siblings"
-msgstr ""
+msgstr "当前页面的相关页面列表"
 
-#: inc/core/data.php:1615
+#: inc/core/data.php:1616
 msgid "Document"
-msgstr ""
+msgstr "文档"
 
-#: inc/core/data.php:1623
+#: inc/core/data.php:1624
 msgid "Url to uploaded document. Supported formats: doc, xls, pdf etc."
-msgstr ""
+msgstr "上传文件的地址。支持的格式： doc, xls, pdf etc."
 
-#: inc/core/data.php:1632
+#: inc/core/data.php:1633
 msgid "Viewer width"
-msgstr ""
+msgstr "浏览器宽度"
 
-#: inc/core/data.php:1641
+#: inc/core/data.php:1642
 msgid "Viewer height"
-msgstr ""
+msgstr "浏览器高度"
 
-#: inc/core/data.php:1647
+#: inc/core/data.php:1648
 msgid "Ignore width and height parameters and make viewer responsive"
-msgstr ""
+msgstr "忽略宽度和高度参数，使用网站响应。"
 
-#: inc/core/data.php:1655
+#: inc/core/data.php:1656
 msgid "Document viewer by Google"
-msgstr ""
+msgstr "谷歌文档浏览器"
 
-#: inc/core/data.php:1660
+#: inc/core/data.php:1661
 msgid "Gmap"
-msgstr ""
+msgstr "地图"
 
-#: inc/core/data.php:1671
+#: inc/core/data.php:1672
 msgid "Map width"
-msgstr ""
+msgstr "地图宽度"
 
-#: inc/core/data.php:1680
+#: inc/core/data.php:1681
 msgid "Map height"
-msgstr ""
+msgstr "地图高度"
 
-#: inc/core/data.php:1686
+#: inc/core/data.php:1687
 msgid "Ignore width and height parameters and make map responsive"
-msgstr ""
-
-#: inc/core/data.php:1691
-msgid "Marker"
-msgstr ""
+msgstr "忽略宽度和高度参数，并做出响应的地图。"
 
 #: inc/core/data.php:1692
+msgid "Marker"
+msgstr "标识"
+
+#: inc/core/data.php:1693
 msgid "Address for the marker. You can type it in any language"
-msgstr ""
+msgstr "地址标识。你可以键入任何语言"
 
-#: inc/core/data.php:1700
+#: inc/core/data.php:1701
 msgid "Maps by Google"
-msgstr ""
+msgstr "谷歌地图"
 
-#: inc/core/data.php:1705
+#: inc/core/data.php:1706
 msgid "Slider"
-msgstr ""
+msgstr "幻灯"
 
-#: inc/core/data.php:1712 inc/core/data.php:1820 inc/core/data.php:1947
+#: inc/core/data.php:1713 inc/core/data.php:1830 inc/core/data.php:1966
 msgid "Source"
-msgstr ""
+msgstr "来源"
 
-#: inc/core/data.php:1713 inc/core/data.php:1821 inc/core/data.php:1948
+#: inc/core/data.php:1714 inc/core/data.php:1831 inc/core/data.php:1967
 msgid ""
 "Choose images source. You can use images from Media library or retrieve it "
 "from posts (thumbnails) posted under specified blog category. You can also "
 "pick any custom taxonomy"
 msgstr ""
+"选择图像源。您可以从媒体库中使用的图像或张贴在指定类别的博客文章（缩略图）进"
+"行检索。您也可以选择任何自定义分类。"
 
-#: inc/core/data.php:1719
+#: inc/core/data.php:1723 inc/core/data.php:1840
+msgid ""
+"Maximum number of image source posts (for recent posts, category and custom "
+"taxonomy)"
+msgstr "图像源的文章数目上限（最近的文章，类别和自定义分类）"
+
+#: inc/core/data.php:1729
 msgid "Full-size image"
-msgstr ""
+msgstr "全尺寸图片"
 
-#: inc/core/data.php:1720 inc/core/data.php:1828 inc/core/data.php:1955
+#: inc/core/data.php:1730 inc/core/data.php:1847 inc/core/data.php:1983
 msgid "Attachment page"
-msgstr ""
+msgstr "附件页面"
 
-#: inc/core/data.php:1721 inc/core/data.php:1829 inc/core/data.php:1956
+#: inc/core/data.php:1731 inc/core/data.php:1848 inc/core/data.php:1984
 msgid "Post permalink"
-msgstr ""
+msgstr "文章固定链接"
 
-#: inc/core/data.php:1724 inc/core/data.php:1832 inc/core/data.php:1959
+#: inc/core/data.php:1734 inc/core/data.php:1851 inc/core/data.php:1987
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
-#: inc/core/data.php:1725 inc/core/data.php:1833 inc/core/data.php:1960
+#: inc/core/data.php:1735 inc/core/data.php:1852 inc/core/data.php:1988
 msgid "Select which links will be used for images in this gallery"
-msgstr ""
+msgstr "选择哪个链接的于图像将用在这个画廊"
 
-#: inc/core/data.php:1730 inc/core/data.php:1838 inc/core/data.php:1965
+#: inc/core/data.php:1740 inc/core/data.php:1857 inc/core/data.php:1993
 msgid "Same window"
-msgstr ""
+msgstr "当前窗口"
 
-#: inc/core/data.php:1731 inc/core/data.php:1839 inc/core/data.php:1966
+#: inc/core/data.php:1741 inc/core/data.php:1858 inc/core/data.php:1994
 msgid "New window"
-msgstr ""
+msgstr "新窗口"
 
-#: inc/core/data.php:1734 inc/core/data.php:1842 inc/core/data.php:1969
+#: inc/core/data.php:1744 inc/core/data.php:1861 inc/core/data.php:1997
 msgid "Links target"
-msgstr ""
+msgstr "链接目标"
 
-#: inc/core/data.php:1735 inc/core/data.php:1843 inc/core/data.php:1970
+#: inc/core/data.php:1745 inc/core/data.php:1862 inc/core/data.php:1998
 msgid "Open links in"
-msgstr ""
+msgstr "链接打开方式"
 
-#: inc/core/data.php:1743
+#: inc/core/data.php:1753
 msgid "Slider width (in pixels)"
-msgstr ""
+msgstr "幻灯宽度(in pixels)"
 
-#: inc/core/data.php:1751
+#: inc/core/data.php:1761
 msgid "Slider height (in pixels)"
-msgstr ""
-
-#: inc/core/data.php:1757
-msgid "Ignore width and height parameters and make slider responsive"
-msgstr ""
-
-#: inc/core/data.php:1762 inc/core/data.php:1889 inc/core/data.php:1996
-msgid "Show titles"
-msgstr ""
-
-#: inc/core/data.php:1762
-msgid "Display slide titles"
-msgstr ""
+msgstr "幻灯高度(in pixels)"
 
 #: inc/core/data.php:1767
+msgid "Ignore width and height parameters and make slider responsive"
+msgstr "忽略宽度和高度参数，使幻灯响应"
+
+#: inc/core/data.php:1772 inc/core/data.php:1908 inc/core/data.php:2024
+msgid "Show titles"
+msgstr "显示标题"
+
+#: inc/core/data.php:1772
+msgid "Display slide titles"
+msgstr "开启幻灯标题"
+
+#: inc/core/data.php:1777
 msgid "Is slider centered on the page"
-msgstr ""
+msgstr "幻灯在页面上居中"
 
-#: inc/core/data.php:1772 inc/core/data.php:1899
+#: inc/core/data.php:1782 inc/core/data.php:1918
 msgid "Arrows"
-msgstr ""
+msgstr "箭头"
 
-#: inc/core/data.php:1772 inc/core/data.php:1899
+#: inc/core/data.php:1782 inc/core/data.php:1918
 msgid "Show left and right arrows"
-msgstr ""
+msgstr "显示左右箭头"
 
-#: inc/core/data.php:1777 inc/core/data.php:1904
+#: inc/core/data.php:1787 inc/core/data.php:1923
 msgid "Pagination"
-msgstr ""
+msgstr "分页"
 
-#: inc/core/data.php:1778 inc/core/data.php:1905
+#: inc/core/data.php:1788 inc/core/data.php:1924
 msgid "Show pagination"
-msgstr ""
+msgstr "显示分页"
 
-#: inc/core/data.php:1782 inc/core/data.php:1909
+#: inc/core/data.php:1792 inc/core/data.php:1928
 msgid "Mouse wheel control"
-msgstr ""
+msgstr "鼠标滚轮控制"
 
-#: inc/core/data.php:1783
+#: inc/core/data.php:1793
 msgid "Allow to change slides with mouse wheel"
-msgstr ""
+msgstr "允许鼠标滚轮切换幻灯片。"
 
-#: inc/core/data.php:1792
+#: inc/core/data.php:1802
 msgid "Choose interval between slide animations. Set to 0 to disable autoplay"
-msgstr ""
+msgstr "选择幻灯片动画之间的间隔时间。设置为0以禁用自动播放。"
 
-#: inc/core/data.php:1800 inc/core/data.php:1927
+#: inc/core/data.php:1810 inc/core/data.php:1946
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
-#: inc/core/data.php:1800 inc/core/data.php:1927
+#: inc/core/data.php:1810 inc/core/data.php:1946
 msgid "Specify animation speed"
-msgstr ""
+msgstr "指定动画速度"
 
-#: inc/core/data.php:1808
+#: inc/core/data.php:1818
 msgid "Customizable image slider"
-msgstr ""
+msgstr "图像幻灯"
 
-#: inc/core/data.php:1813
+#: inc/core/data.php:1823
 msgid "Carousel"
-msgstr ""
+msgstr "轮播"
 
-#: inc/core/data.php:1827 inc/core/data.php:1954
+#: inc/core/data.php:1846 inc/core/data.php:1982
 msgid "Original image"
-msgstr ""
+msgstr "原始图像"
 
-#: inc/core/data.php:1852
+#: inc/core/data.php:1871
 msgid "Carousel width (in pixels)"
-msgstr ""
+msgstr "轮播宽度（in pixels）"
 
-#: inc/core/data.php:1861
+#: inc/core/data.php:1880
 msgid "Carousel height (in pixels)"
-msgstr ""
+msgstr "轮播高度（in pixels）"
 
-#: inc/core/data.php:1867
+#: inc/core/data.php:1886
 msgid "Ignore width and height parameters and make carousel responsive"
-msgstr ""
-
-#: inc/core/data.php:1875
-msgid "Items to show"
-msgstr ""
-
-#: inc/core/data.php:1876
-msgid "How much carousel items is visible"
-msgstr ""
-
-#: inc/core/data.php:1883
-msgid "Scroll number"
-msgstr ""
-
-#: inc/core/data.php:1884
-msgid "How much items are scrolled in one transition"
-msgstr ""
-
-#: inc/core/data.php:1889
-msgid "Display titles for each item"
-msgstr ""
+msgstr "忽略宽度和高度参数，使轮播响应"
 
 #: inc/core/data.php:1894
+msgid "Items to show"
+msgstr "显示项目数"
+
+#: inc/core/data.php:1895
+msgid "How much carousel items is visible"
+msgstr "多少轮播项目"
+
+#: inc/core/data.php:1902
+msgid "Scroll number"
+msgstr "滚动数"
+
+#: inc/core/data.php:1903
+msgid "How much items are scrolled in one transition"
+msgstr "有多少项目，一个滚动过渡"
+
+#: inc/core/data.php:1908
+msgid "Display titles for each item"
+msgstr "为每个项目显示标题"
+
+#: inc/core/data.php:1913
 msgid "Is carousel centered on the page"
-msgstr ""
+msgstr "轮播在页面上居中"
 
-#: inc/core/data.php:1910
+#: inc/core/data.php:1929
 msgid "Allow to rotate carousel with mouse wheel"
-msgstr ""
+msgstr "允许用鼠标滚轮转动"
 
-#: inc/core/data.php:1919
+#: inc/core/data.php:1938
 msgid "Choose interval between auto animations. Set to 0 to disable autoplay"
-msgstr ""
+msgstr "选择自动动画之间的间隔时间。设置为0以禁用自动播放。"
 
-#: inc/core/data.php:1935
+#: inc/core/data.php:1954
 msgid "Customizable image carousel"
-msgstr ""
+msgstr "自定义图片轮播"
 
-#: inc/core/data.php:1978
+#: inc/core/data.php:1976
+msgid ""
+"Maximum number of image source posts (for rcent posts, category and custom "
+"taxonomy)"
+msgstr "图像源的文章数目上限（最近的文章，类别和自定义分类）"
+
+#: inc/core/data.php:2006
 msgid "Single item width (in pixels)"
-msgstr ""
+msgstr "单个项目宽度(in pixels)"
 
-#: inc/core/data.php:1986
+#: inc/core/data.php:2014
 msgid "Single item height (in pixels)"
-msgstr ""
+msgstr "单个项目高度(in pixels)"
 
-#: inc/core/data.php:1991
+#: inc/core/data.php:2019
 msgid "Never"
-msgstr ""
+msgstr "从不"
 
-#: inc/core/data.php:1992
+#: inc/core/data.php:2020
 msgid "On mouse over"
-msgstr ""
+msgstr "鼠标悬停"
 
-#: inc/core/data.php:1993
+#: inc/core/data.php:2021
 msgid "Always"
-msgstr ""
+msgstr "一直"
 
-#: inc/core/data.php:1997
+#: inc/core/data.php:2025
 msgid "Title display mode"
-msgstr ""
+msgstr "标题显示模式"
 
-#: inc/core/data.php:2005
+#: inc/core/data.php:2033
 msgid "Customizable image gallery"
-msgstr ""
+msgstr "自定义图片画廊"
 
-#: inc/core/data.php:2010
+#: inc/core/data.php:2038
 msgid "Posts"
-msgstr ""
+msgstr "文章"
 
-#: inc/core/data.php:2015
+#: inc/core/data.php:2043 inc/core/data.php:2469
 msgid "Template"
-msgstr ""
+msgstr "模板"
 
-#: inc/core/data.php:2016
+#: inc/core/data.php:2044
 msgid ""
 "<b>Do not change this field value if you do not understand description below."
 "</b><br/>Relative path to the template file. Default templates is placed "
@@ -2081,480 +2136,688 @@ msgid ""
 "%value>templates/single-post.php</b> - single post template<br/><b"
 "%value>templates/list-loop.php</b> - unordered list with posts titles"
 msgstr ""
+"<b>请不要更改此字段的值，如果你不明白下面的说明。</b><br/>相对路径的模板文"
+"件。默认模板放置在插件目录（templates folder）下。您可以将它复制你的主题目录"
+"下，并修改为你想要的。您可以使用以下默认模板它们已经可以在插件目录：<br/><b"
+"%value>templates/default-loop.php</b> - 文章<br/><b%value>templates/teaser-"
+"loop.php</b> -文章、标题和缩略图<br/><b%value>templates/single-post.php</b> "
+"- 单个文章模版<br/><b%value>templates/list-loop.php</b> - 无序列表与文章标题"
 
-#: inc/core/data.php:2020
+#: inc/core/data.php:2048
 msgid "Post ID's"
-msgstr ""
+msgstr "文章ID's"
 
-#: inc/core/data.php:2021
+#: inc/core/data.php:2049
 msgid "Enter comma separated ID's of the posts that you want to show"
-msgstr ""
+msgstr "输入ID逗号分隔，你要显示的文章。"
 
-#: inc/core/data.php:2029
+#: inc/core/data.php:2057
 msgid "Posts per page"
-msgstr ""
-
-#: inc/core/data.php:2030
-msgid ""
-"Specify number of posts that you want to show. Enter -1 to get all posts"
-msgstr ""
-
-#: inc/core/data.php:2037
-msgid "Post types"
-msgstr ""
-
-#: inc/core/data.php:2038
-msgid "Select post types. Hold Ctrl key to select multiple post types"
-msgstr ""
-
-#: inc/core/data.php:2044 inc/core/generator-views.php:115
-msgid "Taxonomy"
-msgstr ""
-
-#: inc/core/data.php:2045
-msgid "Select taxonomy to show posts from"
-msgstr ""
-
-#: inc/core/data.php:2052
-msgid "Terms"
-msgstr ""
-
-#: inc/core/data.php:2053
-msgid "Select terms to show posts from"
-msgstr ""
+msgstr "每页文章"
 
 #: inc/core/data.php:2058
-msgid "Taxonomy term operator"
-msgstr ""
+msgid ""
+"Specify number of posts that you want to show. Enter -1 to get all posts"
+msgstr "指定要显示的文章数。输入-1显示所有文章"
 
-#: inc/core/data.php:2059
+#: inc/core/data.php:2065
+msgid "Post types"
+msgstr "文章类型"
+
+#: inc/core/data.php:2066
+msgid "Select post types. Hold Ctrl key to select multiple post types"
+msgstr "选择文章类型。按住Ctrl键选择多个类型"
+
+#: inc/core/data.php:2072 inc/core/generator-views.php:123
+msgid "Taxonomy"
+msgstr "分类"
+
+#: inc/core/data.php:2073
+msgid "Select taxonomy to show posts from"
+msgstr "选择文章的分类"
+
+#: inc/core/data.php:2080
+msgid "Terms"
+msgstr "条件"
+
+#: inc/core/data.php:2081
+msgid "Select terms to show posts from"
+msgstr "选择文章来自的条件"
+
+#: inc/core/data.php:2086
+msgid "Taxonomy term operator"
+msgstr "分类条件操作"
+
+#: inc/core/data.php:2087
 msgid ""
 "IN - posts that have any of selected categories terms<br/>NOT IN - posts "
 "that is does not have any of selected terms<br/>AND - posts that have all "
 "selected terms"
 msgstr ""
+"IN - 符合分类选择条件的文章<br/>NOT IN - 不符合分类选择条件的文章<br/>AND - "
+"符合所有条件的文章"
 
-#: inc/core/data.php:2066
+#: inc/core/data.php:2094
 msgid "Authors"
-msgstr ""
+msgstr "作者"
 
-#: inc/core/data.php:2067
+#: inc/core/data.php:2095
 msgid "Choose the authors whose posts you want to show"
-msgstr ""
-
-#: inc/core/data.php:2071
-msgid "Meta key"
-msgstr ""
-
-#: inc/core/data.php:2072
-msgid "Enter meta key name to show posts that have this key"
-msgstr ""
-
-#: inc/core/data.php:2079
-msgid "Offset"
-msgstr ""
-
-#: inc/core/data.php:2080
-msgid "Specify offset to start posts loop not from first post"
-msgstr ""
-
-#: inc/core/data.php:2085
-msgid "Descending"
-msgstr ""
-
-#: inc/core/data.php:2086
-msgid "Ascending"
-msgstr ""
-
-#: inc/core/data.php:2089
-msgid "Order"
-msgstr ""
-
-#: inc/core/data.php:2090
-msgid "Posts order"
-msgstr ""
-
-#: inc/core/data.php:2096
-msgid "Post ID"
-msgstr ""
-
-#: inc/core/data.php:2097
-msgid "Post author"
-msgstr ""
-
-#: inc/core/data.php:2098
-msgid "Post title"
-msgstr ""
+msgstr "选择您想要显示文章的作者"
 
 #: inc/core/data.php:2099
-msgid "Post slug"
-msgstr ""
+msgid "Meta key"
+msgstr "Meta键"
 
 #: inc/core/data.php:2100
-msgid "Date"
-msgstr ""
-
-#: inc/core/data.php:2100
-msgid "Last modified date"
-msgstr ""
-
-#: inc/core/data.php:2101 inc/core/data.php:2111
-msgid "Post parent"
-msgstr ""
-
-#: inc/core/data.php:2102
-msgid "Random"
-msgstr ""
-
-#: inc/core/data.php:2102
-msgid "Comments number"
-msgstr ""
-
-#: inc/core/data.php:2103
-msgid "Menu order"
-msgstr ""
-
-#: inc/core/data.php:2103
-msgid "Meta key values"
-msgstr ""
-
-#: inc/core/data.php:2106
-msgid "Order by"
-msgstr ""
+msgid "Enter meta key name to show posts that have this key"
+msgstr "输入meta键名以表明有此要职"
 
 #: inc/core/data.php:2107
-msgid "Order posts by"
-msgstr ""
+msgid "Offset"
+msgstr "抵消"
 
-#: inc/core/data.php:2112
-msgid "Show childrens of entered post (enter post ID)"
-msgstr ""
+#: inc/core/data.php:2108
+msgid "Specify offset to start posts loop not from first post"
+msgstr "指定抵消的文章，不是从第一篇文章开始"
+
+#: inc/core/data.php:2113
+msgid "Descending"
+msgstr "降序"
+
+#: inc/core/data.php:2114
+msgid "Ascending"
+msgstr "升序"
 
 #: inc/core/data.php:2117
-msgid "Published"
-msgstr ""
+msgid "Order"
+msgstr "排序"
 
 #: inc/core/data.php:2118
-msgid "Pending"
-msgstr ""
+msgid "Posts order"
+msgstr "文章排序方式"
 
-#: inc/core/data.php:2119
-msgid "Draft"
-msgstr ""
+#: inc/core/data.php:2124 inc/core/data.php:2340 inc/core/data.php:2413
+#: inc/core/data.php:2455
+msgid "Post ID"
+msgstr "文章ID"
 
-#: inc/core/data.php:2120
-msgid "Auto-draft"
-msgstr ""
+#: inc/core/data.php:2125 inc/core/data.php:2414
+msgid "Post author"
+msgstr "文章作者"
 
-#: inc/core/data.php:2121
-msgid "Future post"
-msgstr ""
+#: inc/core/data.php:2126 inc/core/data.php:2418
+msgid "Post title"
+msgstr "文章标题"
 
-#: inc/core/data.php:2122
-msgid "Private post"
-msgstr ""
-
-#: inc/core/data.php:2123
-msgid "Inherit"
-msgstr ""
-
-#: inc/core/data.php:2124
-msgid "Trashed"
-msgstr ""
-
-#: inc/core/data.php:2125 inc/core/data.php:2209
-msgid "Any"
-msgstr ""
+#: inc/core/data.php:2127
+msgid "Post slug"
+msgstr "文章别名"
 
 #: inc/core/data.php:2128
-msgid "Post status"
-msgstr ""
+msgid "Date"
+msgstr "日期"
 
-#: inc/core/data.php:2129
-msgid "Show only posts with selected status"
-msgstr ""
+#: inc/core/data.php:2128
+msgid "Last modified date"
+msgstr "最后更新日期"
+
+#: inc/core/data.php:2129 inc/core/data.php:2139 inc/core/data.php:2427
+msgid "Post parent"
+msgstr "文章父级"
+
+#: inc/core/data.php:2130
+msgid "Random"
+msgstr "随机"
+
+#: inc/core/data.php:2130
+msgid "Comments number"
+msgstr "评论数"
+
+#: inc/core/data.php:2131 inc/core/data.php:2429
+msgid "Menu order"
+msgstr "菜单顺序"
+
+#: inc/core/data.php:2131
+msgid "Meta key values"
+msgstr "Meta键的值"
 
 #: inc/core/data.php:2134
-msgid "Ignore sticky"
-msgstr ""
+msgid "Order by"
+msgstr "排序依据"
 
 #: inc/core/data.php:2135
-msgid "Select Yes to ignore posts that is sticked"
-msgstr ""
+msgid "Order posts by"
+msgstr "文章排序依据"
 
-#: inc/core/data.php:2138
-msgid "Custom posts query with customizable template"
-msgstr ""
+#: inc/core/data.php:2140
+msgid "Show childrens of entered post (enter post ID)"
+msgstr "显示进入后的子文章（输入文章ID）"
 
-#: inc/core/data.php:2143
-msgid "Dummy text"
-msgstr ""
+#: inc/core/data.php:2145
+msgid "Published"
+msgstr "发表"
+
+#: inc/core/data.php:2146
+msgid "Pending"
+msgstr "未发表"
+
+#: inc/core/data.php:2147
+msgid "Draft"
+msgstr "草稿"
+
+#: inc/core/data.php:2148
+msgid "Auto-draft"
+msgstr "自动草稿"
+
+#: inc/core/data.php:2149
+msgid "Future post"
+msgstr "日后文章"
 
 #: inc/core/data.php:2150
-msgid "Paragraphs"
-msgstr ""
+msgid "Private post"
+msgstr "私密文章"
 
 #: inc/core/data.php:2151
-msgid "Words"
-msgstr ""
+msgid "Inherit"
+msgstr "继承"
 
 #: inc/core/data.php:2152
-msgid "Bytes"
-msgstr ""
+msgid "Trashed"
+msgstr "丢弃"
 
-#: inc/core/data.php:2155
-msgid "What"
-msgstr ""
+#: inc/core/data.php:2153 inc/core/data.php:2237
+msgid "Any"
+msgstr "任何"
 
-#: inc/core/data.php:2156
-msgid "What to generate"
-msgstr ""
+#: inc/core/data.php:2156 inc/core/data.php:2420
+msgid "Post status"
+msgstr "文章状态"
 
-#: inc/core/data.php:2164
-msgid "Amount"
-msgstr ""
+#: inc/core/data.php:2157
+msgid "Show only posts with selected status"
+msgstr "只显示与选定状态文章"
 
-#: inc/core/data.php:2165
-msgid ""
-"How many items (paragraphs or words) to generate. Minimum words amount is 5"
-msgstr ""
+#: inc/core/data.php:2162
+msgid "Ignore sticky"
+msgstr "Ignore sticky"
 
-#: inc/core/data.php:2170
-msgid "Cache"
-msgstr ""
+#: inc/core/data.php:2163
+msgid "Select Yes to ignore posts that is sticked"
+msgstr "Select Yes to ignore posts that is sticked"
+
+#: inc/core/data.php:2166
+msgid "Custom posts query with customizable template"
+msgstr "自定义文章"
 
 #: inc/core/data.php:2171
+msgid "Dummy text"
+msgstr "虚拟文本"
+
+#: inc/core/data.php:2178
+msgid "Paragraphs"
+msgstr "段落"
+
+#: inc/core/data.php:2179
+msgid "Words"
+msgstr "字符"
+
+#: inc/core/data.php:2180
+msgid "Bytes"
+msgstr "字节"
+
+#: inc/core/data.php:2183
+msgid "What"
+msgstr "什么"
+
+#: inc/core/data.php:2184
+msgid "What to generate"
+msgstr "什么来生成"
+
+#: inc/core/data.php:2192
+msgid "Amount"
+msgstr "数量"
+
+#: inc/core/data.php:2193
+msgid ""
+"How many items (paragraphs or words) to generate. Minimum words amount is 5"
+msgstr "用多少项（段或字）来生成。最小字量为5"
+
+#: inc/core/data.php:2198
+msgid "Cache"
+msgstr "缓存"
+
+#: inc/core/data.php:2199
 msgid ""
 "Generated text will be cached. Be careful with this option. If you disable "
 "it and insert many dummy_text shortcodes the page load time will be highly "
 "increased"
 msgstr ""
+"生成的文本将被缓存。请小心使用此选项。如果您禁用它，并插入许多dummy_text简码"
+"页面加载时间将大大提高"
 
-#: inc/core/data.php:2179
+#: inc/core/data.php:2207
 msgid "Text placeholder"
-msgstr ""
+msgstr "文本占位符"
 
-#: inc/core/data.php:2184 inc/core/shortcodes.php:1237
+#: inc/core/data.php:2212 inc/core/shortcodes.php:1240
 msgid "Dummy image"
-msgstr ""
+msgstr "虚拟图像"
 
-#: inc/core/data.php:2195
+#: inc/core/data.php:2223
 msgid "Image width"
-msgstr ""
+msgstr "图像宽度"
 
-#: inc/core/data.php:2204
+#: inc/core/data.php:2232
 msgid "Image height"
-msgstr ""
+msgstr "图像高度"
 
-#: inc/core/data.php:2210
+#: inc/core/data.php:2238
 msgid "Abstract"
-msgstr ""
+msgstr "抽象"
 
-#: inc/core/data.php:2211
+#: inc/core/data.php:2239
 msgid "Animals"
-msgstr ""
+msgstr "动物"
 
-#: inc/core/data.php:2212
+#: inc/core/data.php:2240
 msgid "Business"
-msgstr ""
+msgstr "商业"
 
-#: inc/core/data.php:2213
+#: inc/core/data.php:2241
 msgid "Cats"
-msgstr ""
+msgstr "猫"
 
-#: inc/core/data.php:2214
+#: inc/core/data.php:2242
 msgid "City"
-msgstr ""
+msgstr "城市"
 
-#: inc/core/data.php:2215
+#: inc/core/data.php:2243
 msgid "Food"
-msgstr ""
+msgstr "食物"
 
-#: inc/core/data.php:2216
+#: inc/core/data.php:2244
 msgid "Night life"
-msgstr ""
+msgstr "夜生活"
 
-#: inc/core/data.php:2217
+#: inc/core/data.php:2245
 msgid "Fashion"
-msgstr ""
+msgstr "时尚"
 
-#: inc/core/data.php:2218
+#: inc/core/data.php:2246
 msgid "People"
-msgstr ""
+msgstr "人物"
 
-#: inc/core/data.php:2219
+#: inc/core/data.php:2247
 msgid "Nature"
-msgstr ""
-
-#: inc/core/data.php:2220
-msgid "Sports"
-msgstr ""
-
-#: inc/core/data.php:2221
-msgid "Technics"
-msgstr ""
-
-#: inc/core/data.php:2222
-msgid "Transport"
-msgstr ""
-
-#: inc/core/data.php:2226
-msgid "Select the theme for this image"
-msgstr ""
-
-#: inc/core/data.php:2234
-msgid "Image placeholder with random image"
-msgstr ""
-
-#: inc/core/data.php:2239 inc/core/data.php:2247
-msgid "Animation"
-msgstr ""
+msgstr "自然"
 
 #: inc/core/data.php:2248
+msgid "Sports"
+msgstr "体育"
+
+#: inc/core/data.php:2249
+msgid "Technics"
+msgstr "工艺"
+
+#: inc/core/data.php:2250
+msgid "Transport"
+msgstr "交通"
+
+#: inc/core/data.php:2254
+msgid "Select the theme for this image"
+msgstr "选择图片主题"
+
+#: inc/core/data.php:2262
+msgid "Image placeholder with random image"
+msgstr "随机图像占位符"
+
+#: inc/core/data.php:2267 inc/core/data.php:2275
+msgid "Animation"
+msgstr "动画"
+
+#: inc/core/data.php:2276
 msgid "Select animation type"
-msgstr ""
+msgstr "选择动画类型"
 
-#: inc/core/data.php:2256
+#: inc/core/data.php:2284
 msgid "Duration"
-msgstr ""
+msgstr "持续时间"
 
-#: inc/core/data.php:2257
+#: inc/core/data.php:2285
 msgid "Animation duration (seconds)"
-msgstr ""
+msgstr "动画持续时间（秒）"
 
-#: inc/core/data.php:2265
+#: inc/core/data.php:2293
 msgid "Delay"
-msgstr ""
+msgstr "延迟"
 
-#: inc/core/data.php:2266
+#: inc/core/data.php:2294
 msgid "Animation delay (seconds)"
-msgstr ""
+msgstr "动画延迟（秒）"
 
-#: inc/core/data.php:2271
+#: inc/core/data.php:2299
 msgid "Inline"
-msgstr ""
+msgstr "内链"
 
-#: inc/core/data.php:2272
+#: inc/core/data.php:2300
 msgid ""
 "This parameter determines what HTML tag will be used for animation wrapper. "
 "Turn this option to YES and animated element will be wrapped in SPAN instead "
 "of DIV. Useful for inline animations, like buttons"
 msgstr ""
+"This parameter determines what HTML tag will be used for animation wrapper. "
+"Turn this option to YES and animated element will be wrapped in SPAN instead "
+"of DIV. Useful for inline animations, like buttons"
 
-#: inc/core/data.php:2280
+#: inc/core/data.php:2308
 msgid "Animated content"
-msgstr ""
+msgstr "动画内容"
 
-#: inc/core/data.php:2281
+#: inc/core/data.php:2309
 msgid "Wrapper for animation. Any nested element will be animated"
-msgstr ""
+msgstr "任何嵌套元素将被动画"
 
-#: inc/core/generator-views.php:37
+#: inc/core/data.php:2314
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/core/data.php:2320
+msgid "Key"
+msgstr "键"
+
+#: inc/core/data.php:2321
+msgid "Meta key name"
+msgstr "Meta键名字"
+
+#: inc/core/data.php:2326 inc/core/data.php:2378 inc/core/data.php:2441
+msgid "This text will be shown if data is not found"
+msgstr "如果没有找到该数据文本将被显示"
+
+#: inc/core/data.php:2330 inc/core/data.php:2382 inc/core/data.php:2445
+msgid "Before"
+msgstr "之前"
+
+#: inc/core/data.php:2331 inc/core/data.php:2383 inc/core/data.php:2446
+msgid "This content will be shown before the value"
+msgstr "这个内容将被显示之前值"
+
+#: inc/core/data.php:2335 inc/core/data.php:2387 inc/core/data.php:2450
+msgid "After"
+msgstr "之后"
+
+#: inc/core/data.php:2336 inc/core/data.php:2388 inc/core/data.php:2451
+msgid "This content will be shown after the value"
+msgstr "这个内容将被显示之后值"
+
+#: inc/core/data.php:2341 inc/core/data.php:2456
+msgid ""
+"You can specify custom post ID. Leave this field empty to use an ID of the "
+"current post. Current post ID may not work in Live Preview mode"
+msgstr ""
+"您可以指定自定义文章的ID。将此字段留空以使用当前文章的ID。当前文章ID可能无法"
+"在即时预览模式下工作"
+
+#: inc/core/data.php:2345 inc/core/data.php:2397 inc/core/data.php:2460
+msgid "Filter"
+msgstr "筛选"
+
+#: inc/core/data.php:2346 inc/core/data.php:2398 inc/core/data.php:2461
+msgid ""
+"You can apply custom filter to the retrieved value. Enter here function "
+"name. Your function must accept one argument and return modified value. "
+"Example function: "
+msgstr ""
+"You can apply custom filter to the retrieved value. Enter here function "
+"name. Your function must accept one argument and return modified value. "
+"Example function: "
+
+#: inc/core/data.php:2349
+msgid "Post meta"
+msgstr "文章META"
+
+#: inc/core/data.php:2354
+msgid "User"
+msgstr "用户"
+
+#: inc/core/data.php:2361
+msgid "Display name"
+msgstr "显示名称"
+
+#: inc/core/data.php:2363
+msgid "Login"
+msgstr "登录"
+
+#: inc/core/data.php:2364
+msgid "Nice name"
+msgstr "昵称"
+
+#: inc/core/data.php:2365
+msgid "Email"
+msgstr "Email"
+
+#: inc/core/data.php:2366
+msgid "URL"
+msgstr "网址"
+
+#: inc/core/data.php:2367
+msgid "Registered"
+msgstr "注册"
+
+#: inc/core/data.php:2368
+msgid "Activation key"
+msgstr "激活码"
+
+#: inc/core/data.php:2369
+msgid "Status"
+msgstr "状态"
+
+#: inc/core/data.php:2372 inc/core/data.php:2435
+msgid "Field"
+msgstr "领域"
+
+#: inc/core/data.php:2373
+msgid "User data field name"
+msgstr "用户数据字段名"
+
+#: inc/core/data.php:2392
+msgid "User ID"
+msgstr "用户ID"
+
+#: inc/core/data.php:2393
+msgid ""
+"You can specify custom user ID. Leave this field empty to use an ID of the "
+"current user"
+msgstr "您可以指定自定义的用户ID。将此字段留空以使用当前用户的ID"
+
+#: inc/core/data.php:2401
+msgid "User data"
+msgstr "用户数据"
+
+#: inc/core/data.php:2406
+msgid "Post"
+msgstr "文章"
+
+#: inc/core/data.php:2415 inc/core/data.php:2416
+msgid "Post date"
+msgstr "文章日期"
+
+#: inc/core/data.php:2417
+msgid "Post content"
+msgstr "文章内容"
+
+#: inc/core/data.php:2419
+msgid "Post excerpt"
+msgstr "文章摘录"
+
+#: inc/core/data.php:2421
+msgid "Comment status"
+msgstr "评论状态"
+
+#: inc/core/data.php:2422
+msgid "Ping status"
+msgstr "ping状态"
+
+#: inc/core/data.php:2423
+msgid "Post name"
+msgstr "文章名称"
+
+#: inc/core/data.php:2424 inc/core/data.php:2425
+msgid "Post modified"
+msgstr "修改的文章"
+
+#: inc/core/data.php:2426
+msgid "Filtered post content"
+msgstr "筛选过文章内容"
+
+#: inc/core/data.php:2428
+msgid "GUID"
+msgstr "GUID"
+
+#: inc/core/data.php:2430
+msgid "Post type"
+msgstr "文章类型"
+
+#: inc/core/data.php:2431
+msgid "Post mime type"
+msgstr "文章mime类型"
+
+#: inc/core/data.php:2432
+msgid "Comment count"
+msgstr "评论计数"
+
+#: inc/core/data.php:2436
+msgid "Post data field name"
+msgstr "文章数据的字段名"
+
+#: inc/core/data.php:2464
+msgid "Post data"
+msgstr "文章数据"
+
+#: inc/core/data.php:2475
+msgid "Template name"
+msgstr "模版名称"
+
+#: inc/core/data.php:2476
+#, php-format
+msgid ""
+"Use template file name (with optional .php extension). If you need to use "
+"templates from theme sub-folder, use relative path. Example values: %s, %s, "
+"%s"
+msgstr ""
+"使用模板文件名（可选带有.php扩展名）。如果你需要使用的模板主题的子文件夹，使"
+"用相对路径。示例：%s, %s, %s"
+
+#: inc/core/data.php:2479
+msgid "Theme template"
+msgstr "主题模版"
+
+#: inc/core/generator-views.php:45
 msgid "Yes"
 msgstr ""
 
-#: inc/core/generator-views.php:37
+#: inc/core/generator-views.php:45
 msgid "No"
 msgstr ""
 
-#: inc/core/generator-views.php:42 inc/core/generator-views.php:47
+#: inc/core/generator-views.php:50 inc/core/generator-views.php:55
 #: inc/vendor/sunrise.php:440
 msgid "Media manager"
-msgstr ""
+msgstr "媒体管理器"
 
-#: inc/core/generator-views.php:47
+#: inc/core/generator-views.php:55
 msgid "Icon picker"
-msgstr ""
+msgstr "图标选择器"
 
-#: inc/core/generator-views.php:47
+#: inc/core/generator-views.php:55
 msgid "Filter icons"
-msgstr ""
+msgstr "筛选图标"
 
-#: inc/core/generator-views.php:61
+#: inc/core/generator-views.php:69
 msgid "Please wait"
-msgstr ""
+msgstr "请稍候"
 
-#: inc/core/generator-views.php:68
+#: inc/core/generator-views.php:76
 msgid "Untitled gallery"
-msgstr ""
+msgstr "未命名画廊"
 
-#: inc/core/generator-views.php:74
+#: inc/core/generator-views.php:82
 msgid "Galleries not found"
-msgstr ""
+msgstr "没有找到画廊"
 
-#: inc/core/generator-views.php:75
+#: inc/core/generator-views.php:83
 msgid "Manage galleries"
-msgstr ""
+msgstr "管理画廊"
 
-#: inc/core/generator-views.php:75
+#: inc/core/generator-views.php:83
 msgid "Reload galleries"
-msgstr ""
+msgstr "重新加载画廊"
 
-#: inc/core/generator-views.php:91
+#: inc/core/generator-views.php:99
 msgid "Horizontal offset"
-msgstr ""
+msgstr "水平偏移"
 
-#: inc/core/generator-views.php:91
+#: inc/core/generator-views.php:99
 msgid "Vertical offset"
-msgstr ""
+msgstr "垂直偏移"
 
-#: inc/core/generator-views.php:91
+#: inc/core/generator-views.php:99
 msgid "Blur"
-msgstr ""
+msgstr "模糊"
 
-#: inc/core/generator-views.php:102
+#: inc/core/generator-views.php:110
 msgid "Border width"
-msgstr ""
+msgstr "边框宽度"
 
-#: inc/core/generator-views.php:102
+#: inc/core/generator-views.php:110
 msgid "Border style"
-msgstr ""
+msgstr "边框样式"
 
-#: inc/core/generator-views.php:102
+#: inc/core/generator-views.php:110
 msgid "Border color"
-msgstr ""
+msgstr "边框颜色"
 
-#: inc/core/generator-views.php:112
+#: inc/core/generator-views.php:120
 msgid "Media library"
-msgstr ""
+msgstr "媒体库"
 
-#: inc/core/generator-views.php:113
+#: inc/core/generator-views.php:121
 msgid "Recent posts"
-msgstr ""
+msgstr "最近文章"
 
-#: inc/core/generator-views.php:114
+#: inc/core/generator-views.php:122
 msgid "Category"
-msgstr ""
+msgstr "分类目录"
 
-#: inc/core/generator-views.php:118
+#: inc/core/generator-views.php:126
 msgid "Select images source"
-msgstr ""
+msgstr "选择图像来源"
 
-#: inc/core/generator-views.php:129
+#: inc/core/generator-views.php:137
 msgid "Select taxonomy"
-msgstr ""
+msgstr "选择分类"
 
-#: inc/core/generator-views.php:140
+#: inc/core/generator-views.php:148
 msgid "Add images"
-msgstr ""
+msgstr "添加图片"
 
-#: inc/core/generator-views.php:140
+#: inc/core/generator-views.php:148
 msgid ""
 "Click the button above and select images.<br>You can select multimple images "
 "with Ctrl (Cmd) key"
-msgstr ""
+msgstr "点击上面的按钮，并选择图像。您可以选择多个图像，按Ctrl（CMD）键"
 
-#: inc/core/generator-views.php:140
+#: inc/core/generator-views.php:148
 msgid ""
 "Select categories to retrieve posts from.<br>You can select multiple "
 "categories with Ctrl (Cmd) key"
-msgstr ""
+msgstr "选择要从中检索文章的分类。搜寻您可以选择多个分类，按Ctrl（CMD）键。"
 
-#: inc/core/generator-views.php:140
+#: inc/core/generator-views.php:148
 msgid ""
 "Select taxonomy and it's terms.<br>You can select multiple terms with Ctrl "
 "(Cmd) key"
-msgstr ""
+msgstr "选择分类和它的条件。您可以选择多个条件用Ctrl（CMD）键"
 
 #: inc/core/generator.php:41 inc/core/generator.php:142
 msgid "Insert shortcode"
@@ -2571,69 +2834,69 @@ msgstr "插件设置"
 
 #: inc/core/generator.php:85
 msgid "Plugin homepage"
-msgstr ""
+msgstr "官方网站"
 
 #: inc/core/generator.php:86
 msgid "Support forums"
-msgstr ""
+msgstr "技术论坛"
 
 #: inc/core/generator.php:93
 msgid "Search for shortcodes"
-msgstr ""
+msgstr "搜索简码"
 
 #: inc/core/generator.php:95
 msgid "Filter by type"
-msgstr ""
+msgstr "类型筛选"
 
 #: inc/core/generator.php:130
 msgid "Shortcode not specified"
-msgstr ""
+msgstr "未指定简码"
 
 #: inc/core/generator.php:143
 msgid "Live preview"
-msgstr ""
+msgstr "预览效果"
 
 #: inc/core/generator.php:147
 msgid "Click to return to the shortcodes list"
-msgstr ""
+msgstr "点击返回到简码列表"
 
 #: inc/core/generator.php:147
 msgid "All shortcodes"
-msgstr ""
+msgstr "全部简码"
 
 #: inc/core/generator.php:163
 msgid "Click to set this value"
-msgstr ""
+msgstr "点击设置此值"
 
 #: inc/core/generator.php:187
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
-#: inc/core/generator.php:195 inc/core/tools.php:792
+#: inc/core/generator.php:196 inc/core/tools.php:829
 msgid "Access denied"
-msgstr ""
+msgstr "访问被拒绝"
 
-#: inc/core/generator.php:230
+#: inc/core/generator.php:231
 msgid "Presets"
-msgstr ""
+msgstr "预设"
 
-#: inc/core/generator.php:233
+#: inc/core/generator.php:234
 msgid "Save current settings as preset"
 msgstr "保存当前设置为预设"
 
-#: inc/core/generator.php:262 inc/core/generator.php:265
+#: inc/core/generator.php:263 inc/core/generator.php:266
 msgid "Presets not found"
-msgstr ""
+msgstr "没有可用预设"
 
 #: inc/core/load.php:30 inc/core/load.php:104 inc/core/load.php:113
 #: inc/core/load.php:127 inc/core/load.php:139 inc/core/widget.php:14
 #: inc/core/widget.php:40
 msgid "Shortcodes Ultimate"
-msgstr ""
+msgstr "终极简码"
 
 #: inc/core/load.php:31
 msgid "Shortcodes"
-msgstr ""
+msgstr "简码"
 
 #: inc/core/load.php:39
 msgid "About"
@@ -2647,15 +2910,15 @@ msgstr "自定义格式"
 msgid ""
 "Disable this option if you have some problems with other plugins or content "
 "formatting"
-msgstr ""
+msgstr "如果你发现与其他插件或内容格式出现一些问题请禁用此选项"
 
 #: inc/core/load.php:57
 msgid "Documentation article"
-msgstr ""
+msgstr "说明文章"
 
 #: inc/core/load.php:59 inc/core/load.php:67
 msgid "Enabled"
-msgstr ""
+msgstr "开启"
 
 #: inc/core/load.php:64
 msgid "Skip default values"
@@ -2667,10 +2930,12 @@ msgid ""
 "attribute values that you have not changed. As a result, the generated code "
 "will be shorter."
 msgstr ""
+"启用此选项，生成器将插入一个你没有做任何修改的默认属性的简码。其结果是，所生"
+"成的简码会更短。"
 
 #: inc/core/load.php:72
 msgid "Shortcodes prefix"
-msgstr ""
+msgstr "简码前缀"
 
 #: inc/core/load.php:73
 #, php-format
@@ -2680,14 +2945,17 @@ msgid ""
 "this option is not affects your already inserted shortcodes and if you'll "
 "change this value your old shortcodes will be broken"
 msgstr ""
+"此前缀将被添加到这个插件的所有简码。例如，在此处键入 %s 你会得到这样的 %s "
+"and %s简码。请记住：这个选项不影响你已经插入简码，如果你改变这个值原来简码将"
+"被打破。"
 
 #: inc/core/load.php:79
 msgid "Skin"
-msgstr ""
+msgstr "皮肤"
 
 #: inc/core/load.php:80
 msgid "Choose global skin for shortcodes"
-msgstr ""
+msgstr "为简码选择皮肤"
 
 #: inc/core/load.php:88
 msgid "Custom CSS"
@@ -2695,23 +2963,23 @@ msgstr "自定义CSS"
 
 #: inc/core/load.php:113 inc/core/load.php:114
 msgid "Examples"
-msgstr ""
+msgstr "示例"
 
 #: inc/core/load.php:127 inc/core/load.php:128
 msgid "Add-ons"
-msgstr ""
+msgstr "附加组件"
 
 #: inc/core/load.php:140 inc/core/vote.php:42
 msgid "Vladimir Anokhin"
-msgstr ""
+msgstr "Vladimir Anokhin"
 
 #: inc/core/load.php:141
 msgid "Supercharge your WordPress theme with mega pack of shortcodes"
 msgstr ""
 
-#: inc/core/load.php:223
+#: inc/core/load.php:217
 msgid "Where to start?"
-msgstr ""
+msgstr "从哪里开始？"
 
 #: inc/core/requirements.php:23
 #, php-format
@@ -2734,7 +3002,7 @@ msgstr ""
 
 #: inc/core/shortcodes.php:53
 msgid "Tab title"
-msgstr ""
+msgstr "标签标题"
 
 #: inc/core/shortcodes.php:451
 msgid "This is box title"
@@ -2742,7 +3010,7 @@ msgstr ""
 
 #: inc/core/shortcodes.php:492
 msgid "please specify correct source"
-msgstr ""
+msgstr "请指定正确的源"
 
 #: inc/core/shortcodes.php:561 inc/core/shortcodes.php:565
 #: inc/core/shortcodes.php:598 inc/core/shortcodes.php:602
@@ -2751,28 +3019,48 @@ msgstr ""
 #: inc/core/shortcodes.php:681 inc/core/shortcodes.php:688
 #: inc/core/shortcodes.php:710 inc/core/shortcodes.php:715
 msgid "please specify correct url"
-msgstr ""
+msgstr "请指定正确的URL"
 
 #: inc/core/shortcodes.php:846
 msgid "This menu doesn't exists, or has no elements"
-msgstr ""
+msgstr "此菜单不存在，或没有任何元素"
 
-#: inc/core/shortcodes.php:944 inc/core/shortcodes.php:1019
-#: inc/core/shortcodes.php:1064
+#: inc/core/shortcodes.php:945 inc/core/shortcodes.php:1021
+#: inc/core/shortcodes.php:1067
 msgid "images not found"
-msgstr ""
+msgstr "没有找到图片"
 
-#: inc/core/shortcodes.php:1199
+#: inc/core/shortcodes.php:1202
 msgid "template not found"
-msgstr ""
+msgstr "模板未找到"
 
-#: inc/core/tools.php:744
+#: inc/core/shortcodes.php:1280 inc/core/shortcodes.php:1330
+msgid "post ID is incorrect"
+msgstr "帖子ID是不正确的"
+
+#: inc/core/shortcodes.php:1282
+msgid "please specify meta key name"
+msgstr "请注明meta键名"
+
+#: inc/core/shortcodes.php:1303
+msgid "password field is not allowed"
+msgstr "密码字段是不允许的"
+
+#: inc/core/shortcodes.php:1307
+msgid "user ID is incorrect"
+msgstr "用户ID不正确"
+
+#: inc/core/shortcodes.php:1346
+msgid "please specify template name"
+msgstr "请注明模板名称"
+
+#: inc/core/tools.php:781
 msgid "Example code does not found, please check it later"
-msgstr ""
+msgstr "示例代码没有找到，请稍后查看"
 
-#: inc/core/tools.php:760
+#: inc/core/tools.php:797
 msgid "Get the code"
-msgstr ""
+msgstr "获取代码"
 
 #: inc/core/vote.php:44
 msgid ""
@@ -2784,11 +3072,11 @@ msgstr ""
 
 #: inc/core/vote.php:46
 msgid "Rate plugin"
-msgstr ""
+msgstr "利率插件"
 
 #: inc/core/vote.php:47
 msgid "Shortcodes Ultimate - must have WordPress plugin #shortcodesultimate"
-msgstr ""
+msgstr "终极简码 - 必须有的WordPress插件 #shortcodesultimate"
 
 #: inc/core/vote.php:47
 msgid "Tweet"
@@ -2796,7 +3084,7 @@ msgstr ""
 
 #: inc/core/vote.php:48
 msgid "No, thanks"
-msgstr ""
+msgstr "不，谢谢。"
 
 #: inc/core/vote.php:49
 msgid "or"
@@ -2804,11 +3092,11 @@ msgstr ""
 
 #: inc/core/vote.php:50
 msgid "Remind me later"
-msgstr ""
+msgstr "稍后提醒我"
 
 #: inc/core/widget.php:7
 msgid "Special Shortcodes Ultimate widget"
-msgstr ""
+msgstr "特殊终极简码小工具"
 
 #: inc/core/widget.php:46
 msgid "Title:"
@@ -2821,7 +3109,7 @@ msgstr "插件设置"
 
 #: inc/vendor/sunrise.php:179
 msgid "Use selected file"
-msgstr ""
+msgstr "使用所选的文件"
 
 #: inc/vendor/sunrise.php:369
 msgid "Save changes"
@@ -2829,7 +3117,7 @@ msgstr "保存更改"
 
 #: inc/vendor/sunrise.php:369
 msgid "Saving"
-msgstr "保存..."
+msgstr "保存中"
 
 #: inc/vendor/sunrise.php:369
 msgid "Saved"
@@ -2843,7 +3131,7 @@ msgstr ""
 
 #: inc/vendor/sunrise.php:369
 msgid "Restore default settings"
-msgstr "恢复默认设置"
+msgstr "恢复到默认设置"
 
 #: inc/vendor/sunrise.php:376 inc/vendor/sunrise.php:385
 #: inc/vendor/sunrise.php:435
@@ -2856,15 +3144,15 @@ msgstr ""
 
 #: inc/vendor/sunrise.php:408 inc/vendor/sunrise.php:419
 msgid "Checkbox"
-msgstr ""
+msgstr "复选框"
 
 #: inc/vendor/sunrise.php:445
 msgid "Color picker"
-msgstr ""
+msgstr "颜色选择器"
 
 #: inc/vendor/sunrise.php:453
 msgid "Pick a color"
-msgstr ""
+msgstr "选择颜色"
 
 #: inc/vendor/sunrise.php:477
 msgid ""
@@ -2873,11 +3161,11 @@ msgstr ""
 
 #: inc/vendor/sunrise.php:478
 msgid "Settings saved successfully"
-msgstr "设置保存成功"
+msgstr "设置成功保存"
 
 #: inc/vendor/sunrise.php:479
 msgid "Settings reseted successfully"
-msgstr "设置重置成功"
+msgstr "设置成功重置"
 
 #: inc/vendor/sunrise.php:508
 #, php-format
@@ -2898,9 +3186,9 @@ msgstr "1评论"
 
 #: templates/default-loop.php:19 templates/single-post.php:17
 msgid "%n comments"
-msgstr "%n 评论"
+msgstr "%n评论"
 
 #: templates/default-loop.php:27 templates/list-loop.php:16
-#: templates/single-post.php:28 templates/teaser-loop.php:20
+#: templates/single-post.php:28
 msgid "Posts not found"
-msgstr "文章未找到"
+msgstr "没有发现文章"
